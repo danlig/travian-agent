@@ -105,7 +105,7 @@ The full operating manual — including the operating loop, sleep policy, and sc
 
 4. **Start Claude Code** in the project folder and give it a single prompt:
    ```
-   /goal read AGENT.md
+   /goal the goal is in AGENT.md
    ```
    The `/goal` command keeps the agent running in one continuous session until the objective is reached, which is exactly what a long-horizon game like this needs.
 
