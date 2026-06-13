@@ -1,9 +1,9 @@
 # Hero Experience
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060173-hero-experience
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060173-hero-experience
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Your hero gains experience (XP) through battles, adventures, daily quests, tasks, and some items.
 When enough XP is collected, your hero levels up and receives 4 additional attribute points to spend.
@@ -72,7 +72,7 @@ Mathematical rounding applies to all XP results.
 Tip:
 Your hero gains the most XP when participating in large battles with high enemy losses. Combine this with Adventures early on to level up quickly and unlock stronger attribute boosts.
 
-## Punti chiave operativi
+## Key Operational Points
 - Your hero gains experience (XP) through battles, adventures, daily quests, tasks, and some items.
 - When enough XP is collected, your hero levels up and receives 4 additional attribute points to spend.
 - Hero Items (specific consumables and equipment)
@@ -88,8 +88,8 @@ Your hero gains the most XP when participating in large battles with high enemy 
 - Situation: Player A attacks with 10 Theutates Thunders and 10 Phalanxes (total 30 crop supply).
 - 10 defending heroes each have 6 crop supply.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

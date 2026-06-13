@@ -1,9 +1,9 @@
 # 5 things to consider about Romans
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091809-5-things-to-consider-about-romans
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091809-5-things-to-consider-about-romans
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 - By design, Romans are a synonym of discipline, order and strength. So, let’s look into 5 things we should consider if we picked Romans as a tribe in Travian: Legends.First and utmost – Romans are very good in development. Their unique ability to construct internal buildings in parallel with the resource fields make development of any Roman village fast and efficient. Isn’t it a dream to build Main building, warehouses and granaries while you are upgrading fields? They are natural time and gold-savers.
 - Horse Drinking Trough adds another huge bonus that is hard to underestimate. Roman Equites Legati considered best scout units if we talk about crop consumption vs speed vs training costs. That is the only horse rider unit in the game that consumes just one crop per hour without any diet artefact or world wonder effects. That’s why players that picked alliance scouter as their game specialisation often play with the Romans.
 - Whether you play on a 3-tribe, 5-tribe or a 6-tribe world, you know for sure that in general alliances have more defence against infantry than against cavalry. And this gives another benefit to the strong Roman army which is more focused on cavalry than infantry. 
@@ -14,14 +14,14 @@ Training time of Equites Caesaris (strongest Roman cavalry) with 20 lvl Horse Dr
 
 All in all, Romans would be a good choice for the players that do not plan to spend lots of gold for the game. Romans need some time to come to real power at the beginning of the round, but in the mid- and end-round Romans become a strong force to be reckoned with!
 
-## Punti chiave operativi
+## Key Operational Points
 - 5 things to consider about Romans
 By design, Romans are a synonym of discipline, order and strength. So, let’s look into 5 things we should consider if we picked Romans as a tribe in Travian: Legends.First and utmost – Romans are very good
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

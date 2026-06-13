@@ -1,9 +1,9 @@
 # Alliance Graphs
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000063341-alliance-graphs
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000063341-alliance-graphs
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Alliances in Travian: Legends can display up to three performance graphs on their internal overview page.
 These graphs allow alliance members to easily monitor their combat performance and military strength compared to other alliances.
@@ -44,7 +44,7 @@ Fighting Points [stats]fighting points[/stats]
 - Combine graphs to track both offensive progress and defensive resilience.
 - Reviewing the 7-day comparison helps identify trends and measure improvement after major battles.
 
-## Punti chiave operativi
+## Key Operational Points
 - Alliances in Travian: Legends can display up to three performance graphs on their internal overview page.
 - These graphs allow alliance members to easily monitor their combat performance and military strength compared to other alliances.
 - Shows a comparison between your alliance and another alliance over the last 7 days, including:
@@ -59,7 +59,7 @@ Fighting Points [stats]fighting points[/stats]
 - Combine graphs to track both offensive progress and defensive resilience.
 - Reviewing the 7-day comparison helps identify trends and measure improvement after major battles.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.

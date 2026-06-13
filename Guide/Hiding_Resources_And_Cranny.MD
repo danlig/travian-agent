@@ -1,9 +1,9 @@
 # Hiding Resources & Cranny
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000068298-hiding-resources-cranny
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000068298-hiding-resources-cranny
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 When your village is attacked or raided, protecting your resources becomes important. A Cranny helps safeguard part of your stored resources from being stolen. It is recommended to build a Cranny before your Beginners Protection ends and to upgrade it so it covers the amount of resources you normally hold, especially resources accumulated overnight.
 - At level 1, a Cranny hides 200 of each resource (or 300 for Gauls).
@@ -39,7 +39,7 @@ The Bag of Plunder hero item increases the amount of resources that can be raide
 In the table below you can find the construction costs and time, as well as the capacity on each level of the cranny.
 - Hero Left Hand Items
 
-## Punti chiave operativi
+## Key Operational Points
 - At level 1, a Cranny hides 200 of each resource (or 300 for Gauls).
 - At level 10, it hides 2000 (or 3000 for Gauls).
 - After upgrading a Cranny to level 10, you can build additional Crannies in the same village. There is no limit to how many you can add.
@@ -51,9 +51,9 @@ In the table below you can find the construction costs and time, as well as the 
 - The Bag of Plunder hero item increases the amount of resources that can be raided from any village.
 - In the table below you can find the construction costs and time, as well as the capacity on each level of the cranny.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

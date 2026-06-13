@@ -1,9 +1,9 @@
 # Travian Tournament - Prizes
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000093212-travian-tournament-prizes
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000093212-travian-tournament-prizes
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The Travian Tournament rewards not only glory, but also valuable prizes across both the Qualification Round and the Finals. Below is an overview of all prize categories and how you can earn them.
 
@@ -73,7 +73,7 @@ Any player with 10 or more villages at the end of the Qualification world receiv
 Each player can receive only one reward per game world.
 If a player qualifies for multiple prizes, they receive the reward corresponding to their best performance.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Travian Tournament rewards not only glory, but also valuable prizes across both the Qualification Round and the Finals. Below is an overview of all prize categories and how you can earn them.
 - The holder of the winning Wonder of the World receives:
 - To qualify for a prize, the Wonder of the World must reach at least level 1 by the end of the Finals.
@@ -89,7 +89,7 @@ If a player qualifies for multiple prizes, they receive the reward corresponding
 - Any player with 10 or more villages at the end of the Qualification world receives:
 - Each player can receive only one reward per game world.
 
-## Implicazioni strategiche
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

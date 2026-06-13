@@ -1,9 +1,9 @@
 # 5 things to consider about Huns
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091808-5-things-to-consider-about-huns
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091808-5-things-to-consider-about-huns
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Huns are born horse riders. Legends say that they learn how to ride before they start walking, and this is true also for Travian: Legends. So, if you pick Huns as your primary tribe, focus on their strength, which is horses!
 - Only Huns and Gauls have 4 cavalry units in their army. For Huns those are Spotters, Steppe Riders, Marksmen and Marauders. And only Huns have 3 attacking cavalry units. On top of that, Hun Spotters are the fastest spying unit in the game. Cheap and ultra-fast, they provide essential info to the farming troops where they can find valuable resources. That means that by design Huns are supposed to be an attacking tribe with a good income from farming. If you are a pure defensive player and you do not consider getting any resources from farming, then perhaps, you’d rather pick another tribe, which has better defensive values and/or has other advantages: Gauls or Egyptians.
@@ -14,12 +14,12 @@ Huns are born horse riders. Legends say that they learn how to ride before they 
 
 To sum up, Huns are a great tribe for those players that like to be active in the game. Their main advantage is speed, their unique abilities (command centre that provides 3 chiefing slots in every village) make them great conquerors. They might not be the best option for totally new players, but this tribe can give players a lot of fun in any aspect of the game!
 
-## Punti chiave operativi
+## Key Operational Points
 - Huns are born horse riders. Legends say that they learn how to ride before they start walking, and this is true also for Travian: Legends. So, if you pick Huns as your primary tribe, focus on their strength, which is horses!
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

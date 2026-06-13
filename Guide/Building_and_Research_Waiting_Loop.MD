@@ -1,9 +1,9 @@
 # Building and Research Waiting Loop
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000063342-building-and-research-waiting-loop
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000063342-building-and-research-waiting-loop
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The Waiting Loop is a premium feature available with a Travian Plus membership.
 It lets you queue one additional construction or research order, saving you time and helping you manage your resources more efficiently.
@@ -28,7 +28,7 @@ If you use the “Finish Construction Instantly” Gold feature, any queued task
 
 Tip: The Waiting Loop is especially useful overnight or during busy hours — queue your next upgrade or research so your village never sits idle.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Waiting Loop is a premium feature available with a Travian Plus membership.
 - It lets you queue one additional construction or research order, saving you time and helping you manage your resources more efficiently.
 - You can add one extra building or resource field upgrade to the queue.
@@ -40,7 +40,7 @@ Tip: The Waiting Loop is especially useful overnight or during busy hours — qu
 - If you use the “Finish Construction Instantly” Gold feature, any queued tasks (building or research) will complete immediately.
 - Tip: The Waiting Loop is especially useful overnight or during busy hours — queue your next upgrade or research so your village never sits idle.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

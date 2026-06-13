@@ -1,9 +1,9 @@
 # Archive reports and messages
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000061580-archive-reports-and-messages
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000061580-archive-reports-and-messages
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The ability to archive reports and messages is a Gold Club feature (Gold Club).
 It allows you to keep important information safe, even when older reports or messages are automatically deleted.
@@ -22,7 +22,7 @@ You can then find all saved reports and messages under the “Archive” tab in 
 
 You can also archive a report directly from its detail view. Simply click the archive button at the top of the report window.
 
-## Punti chiave operativi
+## Key Operational Points
 - The ability to archive reports and messages is a Gold Club feature (Gold Club).
 - It allows you to keep important information safe, even when older reports or messages are automatically deleted.
 - You can archive any report or message that has not been deleted.
@@ -32,5 +32,5 @@ You can also archive a report directly from its detail view. Simply click the ar
 - You can then find all saved reports and messages under the “Archive” tab in the same section.
 - You can also archive a report directly from its detail view. Simply click the archive button at the top of the report window.
 
-## Implicazioni strategiche
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
+## Strategic Implications
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.

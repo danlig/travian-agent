@@ -1,9 +1,9 @@
 # Types of capitals and their development
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092521-types-of-capitals-and-their-development
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092521-types-of-capitals-and-their-development
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 During the “second village rush”, players aim to secure their future capital as quickly as possible — before the best spots are taken. Choosing the right type of capital early can have a lasting impact on your success.
 
@@ -75,7 +75,7 @@ When deciding:
 
 A well-chosen and efficiently developed capital will fuel your growth throughout the entire game round.
 
-## Punti chiave operativi
+## Key Operational Points
 - During the “second village rush”, players aim to secure their future capital as quickly as possible — before the best spots are taken. Choosing the right type of capital early can have a lasting impact on your success.
 - Once your settlers are ready, you have enough culture points, and 750 of each resource, it’s time to decide where to settle.
 - In most cases, your second village becomes your capital, so this is an important decision. If you are in an alliance, coordinate with your leaders. Many alliances follow specific settling strategies to optimize resource control and defense.
@@ -91,9 +91,9 @@ A well-chosen and efficiently developed capital will fuel your growth throughout
 - The type of capital you want determines which buildings you prioritize inside it:
 - Build mainly Warehouses and Granaries for resource storage.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

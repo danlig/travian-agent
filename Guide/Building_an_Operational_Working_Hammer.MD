@@ -1,9 +1,9 @@
 # Building an Operational (Working) Hammer
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092535-building-an-operational-working-hammer
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092535-building-an-operational-working-hammer
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 If you want to play offensively in Travian: Legends, your success depends on planning ahead and maintaining a strong, sustainable attacking army. This guide explains what an Operational (Working) Hammer is, when to start building it, and how to determine whether your account can support it.
 
@@ -72,7 +72,7 @@ You can estimate your hourly production using the in-game general statistics:
 Example:
 1,135,000 resources farmed by Wednesday 14:00 → around 18,300 resources/hour.
 
-## Punti chiave operativi
+## Key Operational Points
 - Building an Operational (Working) Hammer
 - What Is an Operational (Working) Hammer?
 - This makes it a good starting option if you’re new to offensive play, returning after a break, or switching from a defensive playstyle.
@@ -88,10 +88,10 @@ Example:
 - An offensive village is one of the most expensive setups in the game. A prepared Teuton offensive village costs over 9 million resources, not including ongoing troop training. This includes:
 - Barracks, Stables, Workshop, Smithy, Tournament Square, Hospital
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

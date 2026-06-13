@@ -1,9 +1,9 @@
 # Joining, Creating and Leaving an Alliance
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060449-joining-creating-and-leaving-an-alliance
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060449-joining-creating-and-leaving-an-alliance
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Alliances are a core part of advanced gameplay in Travian: Legends. This article explains how to join an alliance, how to create one, how invitations work, and when and how you can leave an alliance. The information below follows the in-game rules and mechanics exactly and is intended to help you resolve common questions without contacting support.
 
@@ -83,7 +83,7 @@ After this protection period has passed, you may leave the alliance at any time:
 
 Leaving an alliance does not require approval from alliance leadership.
 
-## Punti chiave operativi
+## Key Operational Points
 - Joining, Creating and Leaving an Alliance
 - To join an alliance, you must meet both of the following conditions:
 - You have received an alliance invitation from that alliance
@@ -99,5 +99,5 @@ Leaving an alliance does not require approval from alliance leadership.
 - Only players with the appropriate rights can invite others to an alliance:
 - The alliance founder (default full rights)
 
-## Implicazioni strategiche
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
+## Strategic Implications
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.

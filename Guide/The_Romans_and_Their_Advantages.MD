@@ -1,9 +1,9 @@
 # The Romans and Their Advantages
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000095598-the-romans-and-their-advantages
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000095598-the-romans-and-their-advantages
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### Overview
 
@@ -43,7 +43,7 @@ Weaknesses: High costs, long training time, and lower cavalry defense.
 
 If you enjoy well-rounded gameplay with elite troops and precise management, the Romans are your perfect starting point.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Romans are a disciplined and advanced civilization, known for their social organization, technological achievements, and elite troops.
 - They are the easiest tribe for newcomers, offering a balanced mix of offensive and defensive potential.
 - Roman troops are well-rounded — their infantry is among the strongest in Travian: Legends, while their cavalry is average but reliable.
@@ -59,10 +59,10 @@ If you enjoy well-rounded gameplay with elite troops and precise management, the
 - Merchants Carry 500 resources at 16 fields/hour.
 - Training Time Long and expensive — plan production and upgrades carefully.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

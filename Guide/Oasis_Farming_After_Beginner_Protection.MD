@@ -1,9 +1,9 @@
 # Oasis Farming (After Beginner Protection)
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092495-oasis-farming-after-beginner-protection-
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092495-oasis-farming-after-beginner-protection-
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Oasis farming is an effective way to gain extra resources and reduce the amount of gold you spend. By defeating nature troops in oases, your hero collects resources directly into their inventory, allowing you to instantly boost any village without relying on marketplace deliveries.
 
@@ -84,7 +84,7 @@ In some areas, 2+2 cavalry may be too large because others already cleared the o
 
 Oasis farming is flexible. Use these guidelines as a starting point and adapt based on your gameworld.
 
-## Punti chiave operativi
+## Key Operational Points
 - Oasis Farming (After Beginner Protection)
 - There is no single “perfect” farming method, but the steps below give you a reliable foundation to build on.
 - Open the map around your spawn or farming village.
@@ -100,10 +100,10 @@ Oasis farming is flexible. Use these guidelines as a starting point and adapt ba
 - Horse, Small Spurs, Small Map, any right-hand weapon, Helmet of Awareness, Light Scale Armour.
 - If you lack these items, use any alternatives available.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

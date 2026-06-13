@@ -1,9 +1,9 @@
 # Introduction
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000068043-introduction
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000068043-introduction
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Welcome to Travian: Legends, a deep strategy game filled with complex mechanics and long-term planning. It may feel overwhelming at first, but this knowledge base will help you understand the basics and prepare you for the months of gameplay ahead.
 
@@ -72,7 +72,7 @@ Once you master the basics, explore the rest of the knowledge base:
 
 When you feel comfortable, jump in and start your journey.
 
-## Punti chiave operativi
+## Key Operational Points
 - Travian: Legends rounds last several months. Your first playthrough might be shorter—treat it as practice. Don’t hesitate to restart if things go wrong. Each new beginning becomes much easier as you learn the mechanics.
 - There are multiple gameworld versions and speeds. For your first game, it’s recommended to choose a regular x1 gameworld in your region. You can play on multiple gameworlds, but you cannot have two avatars on the same one.
 - Travian has six different tribes, each with its own playstyle. Learning their strengths will help you choose the tribe that matches how you want to play.
@@ -88,9 +88,9 @@ When you feel comfortable, jump in and start your journey.
 - Basic Gameplay explains the core mechanics.
 - Advanced Gameplay contains more detailed systems and late-game concepts.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

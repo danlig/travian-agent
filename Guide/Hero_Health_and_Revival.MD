@@ -1,9 +1,9 @@
 # Hero Health and Revival
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000064020-hero-health-and-revival
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000064020-hero-health-and-revival
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Your hero’s health (HP) is important for survival. They lose health during adventures, in battles, when there is not enough crop to feed them, or when they accumulate too much damage. You can view your hero’s current health in the hero overview (top left) and on the hero attributes page.
 
@@ -91,7 +91,7 @@ revival time = 24 hours × (99 / (99 + (hero level – 99) × 5))
 Example:
 At level 100 → approximately 22.8 hours.
 
-## Punti chiave operativi
+## Key Operational Points
 - Your hero always loses health when completing adventures. The amount depends on:
 - How many adventures the hero has completed before
 - Adventures become harder over time, and without increasing Fighting Strength, your hero will begin losing larger amounts of health per adventure.
@@ -107,10 +107,10 @@ At level 100 → approximately 22.8 hours.
 - If the hero dies and levels up at the same time, they are not revived by the level up.
 - If your hero dies, there are two revival options:
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

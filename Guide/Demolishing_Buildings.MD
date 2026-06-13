@@ -1,9 +1,9 @@
 # Demolishing Buildings
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000061165-demolishing-buildings
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000061165-demolishing-buildings
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 If you no longer need a building, you can order your builders to demolish it from the Main Building.
 To do so, your Main Building must be at least level 10.
@@ -23,7 +23,7 @@ Inside your Main Building, you have three options:
 Tip:
 Demolishing buildings is useful when you want to restructure your village layout or free up space for new, more advanced buildings.
 
-## Punti chiave operativi
+## Key Operational Points
 - If you no longer need a building, you can order your builders to demolish it from the Main Building.
 - To do so, your Main Building must be at least level 10.
 - Inside your Main Building, you have three options:
@@ -34,6 +34,6 @@ Demolishing buildings is useful when you want to restructure your village layout
 - Or ask a friend, ally, or nearby player to attack your village with catapults — a faster (and cheaper) way to clear space.
 - Demolishing buildings is useful when you want to restructure your village layout or free up space for new, more advanced buildings.
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

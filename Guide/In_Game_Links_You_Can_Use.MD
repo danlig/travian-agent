@@ -1,9 +1,9 @@
 # In-Game Links You Can Use
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092470-in-game-links-you-can-use
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092470-in-game-links-you-can-use
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 You can trigger common actions by opening special URLs in your browser. Replace the placeholder with your gameworld before using any link:
 - Your base: https://XXXXXXX.travian.com/
@@ -62,7 +62,7 @@ Example above creates 24 routes (every 1 hour) that deliver 11/22/33/44 at 10:16
 - Keep a personal note of your most-used links with your gameworld prefix already set.
 - For village IDs at scale, export or consult map.sql (updated daily at midnight server time) and filter the data.
 
-## Punti chiave operativi
+## Key Operational Points
 - You can trigger common actions by opening special URLs in your browser. Replace the placeholder with your gameworld before using any link:
 - (e.g., Europe 30 might be https://ts30.x3.europe.travian.com/)
 - https://XXXXXXX.travian.com/position_details.php?x=100&y=-10
@@ -78,9 +78,9 @@ Example above creates 24 routes (every 1 hour) that deliver 11/22/33/44 at 10:16
 - https://XXXXXXX.travian.com/build.php? gid=17&t=3
 - did_dest – target village ID (find it from your village list or via map.sql)
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

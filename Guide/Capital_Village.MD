@@ -1,9 +1,9 @@
 # Capital Village
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060382-capital-village
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060382-capital-village
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### What makes the capital special?
 
@@ -50,7 +50,7 @@ If your capital is completely destroyed, your largest remaining village with a R
 
 In the player overview, look for the (capital) tag — this marks which of their villages is the capital.
 
-## Punti chiave operativi
+## Key Operational Points
 - Your capital is the most important village in your empire. Here’s what makes it unique:
 - It can never be conquered by another player.
 - Great Barracks and Great Stable cannot be built there.
@@ -66,8 +66,8 @@ In the player overview, look for the (capital) tag — this marks which of their
 - What happens when you change your capital?
 - Be cautious — this change is permanent and cannot be undone.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

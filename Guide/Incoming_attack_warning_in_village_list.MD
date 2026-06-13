@@ -1,9 +1,9 @@
 # Incoming attack warning in village list
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000063623-incoming-attack-warning-in-village-list
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000063623-incoming-attack-warning-in-village-list
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The Incoming Attack Warning is a premium feature that is part of Travian Plus. It provides additional visual alerts when any of your villages are under attack.
 
@@ -40,7 +40,7 @@ For example:
 - Attacks and raids are displayed separately in the alliance interface.
 - The Eagle Eyes ancient power does not affect this visibility.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Incoming Attack Warning is a premium feature that is part of Travian Plus. It provides additional visual alerts when any of your villages are under attack.
 - When this feature is active, you will see red sword icons appear next to villages that are being attacked.
 - These swords are displayed in the village list on the right side of the game screen, as shown in the example below:
@@ -56,8 +56,8 @@ For example:
 - If the Rally Point in the target village is level 20, attacks with fewer than 20 units will not appear on the alliance page.
 - Attacks and raids are displayed separately in the alliance interface.
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

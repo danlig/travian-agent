@@ -1,9 +1,9 @@
 # Event Order
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060358-event-order
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060358-event-order
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Many actions in Travian: Legends are processed as events that occur after a countdown — for example, when troops travel to attack a village, or when a building upgrade finishes. The event order determines in which sequence these actions are completed, especially when multiple things happen at the same time.
 
@@ -58,7 +58,7 @@ Events in different villages Randomized order
 Instant actions Processed immediately (no fixed position)
 ```
 
-## Punti chiave operativi
+## Key Operational Points
 - Events are processed chronologically based on the time they finish.
 - An event that ends at 10:05:20 will always occur before one that ends at 10:05:21.
 - When multiple events finish in the same second, troop movements are always handled after all other events — such as construction completions or merchant arrivals.
@@ -74,7 +74,7 @@ Instant actions Processed immediately (no fixed position)
 - There is no guaranteed order for events that happen in different villages.
 - If one of your villages is attacked at the same second your own troops reach a target in another village, either event could resolve first.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

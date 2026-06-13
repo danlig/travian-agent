@@ -1,9 +1,9 @@
 # 5 things to consider about Teutons
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091811-5-things-to-consider-about-teutons
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091811-5-things-to-consider-about-teutons
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Basically, this is the first thing you need to consider about Teutons. By design Teutons are a rather aggressive tribe and they are born to cast fear into the hearts of the enemies.
 - Their base attacking infantry – clubswingers – is one of the best in the game. Due to being rather cheap they can grow considerable armies early enough and defeat surroundings pretty fast. But with this strength comes the first weakness. If you pick Teutons you need to be extra careful and watch closely and react fast to enemy cavalry attacks. Send them to distant oases when you go offline for longer times, activate evasion, and never leave them idling at home!
@@ -12,12 +12,12 @@ Basically, this is the first thing you need to consider about Teutons. By design
 - In the mid and late game in alliance operations Teuton hammers are often used as a cleaner to break through the defence. This is no wonder. This is a combination of 3 factors: one of the strongest rams in terms of attack strength (Egyptians, Gauls and Romans have weaker rams), fastest training speed among all tribes, 20% more strength due to the Brewery effect – all of this makes Teuton rams the best wall-breakers in the game. On top of that, fast and cheap clubswinger recovery in a hospital combined with impressive training speed lets experienced Teutons be on top of attack rankings.
 - Last but not the least. Despite being cheap, a Teuton army requires lots of resources to get trained, and later even more to get fed. Balance your troop numbers with your economy to reach the best results. Align with alliance leadership the role you would like to perform and focus on that.
 
-## Punti chiave operativi
+## Key Operational Points
 - Basically, this is the first thing you need to consider about Teutons. By design Teutons are a rather aggressive tribe and they are born to cast fear into the hearts of the enemies.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

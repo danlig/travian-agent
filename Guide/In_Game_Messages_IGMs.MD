@@ -1,9 +1,9 @@
 # In-Game Messages (IGMs)
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000066441-in-game-messages-igms-
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000066441-in-game-messages-igms-
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### Writing Messages
 
@@ -72,7 +72,7 @@ IGMs and reports are automatically deleted when:
 
 To keep important messages, use the Archive feature.
 
-## Punti chiave operativi
+## Key Operational Points
 - Add the recipient, subject, and your message text.
 - If you’re part of an alliance and have the right permissions, you can also send:
 - Typing [ally] in the recipient field, or
@@ -88,7 +88,7 @@ To keep important messages, use the Archive feature.
 - From there, click to add a new account to your address book.
 - This sends a request to the player, which they need to accept.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

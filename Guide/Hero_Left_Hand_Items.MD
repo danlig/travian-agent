@@ -1,9 +1,9 @@
 # Hero Left-Hand Items
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000068826-hero-left-hand-items
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000068826-hero-left-hand-items
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Left-hand hero items provide a range of bonuses, including increased fighting strength, faster movement, reduced cranny protection, and faster troop travel between villages or alliance members. Each item comes in three tiers, with higher tiers granting stronger bonuses.
 
@@ -52,7 +52,7 @@ Standards increase troop movement speed between alliance or confederation member
 - Standard – 20% faster
 - Great Standard – 25% faster
 
-## Punti chiave operativi
+## Key Operational Points
 - Shields increase your hero’s fighting strength.
 - Higher-tier shields provide significantly greater combat bonuses.
 - Horns increase the attack power of your hero and all troops attacking with the hero when fighting Natars.
@@ -67,10 +67,10 @@ Standards increase troop movement speed between alliance or confederation member
 - Pennants increase troop movement speed between your own villages when the hero travels with the army.
 - Standards increase troop movement speed between alliance or confederation members, again only when the hero is traveling with the troops.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

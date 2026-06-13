@@ -1,9 +1,9 @@
 # Special Servers - Regions and Population
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060360-special-servers-regions-and-population
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060360-special-servers-regions-and-population
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 In annual specials like Reign of Fire, the Travian: Legends world takes place on a map of Ancient Europe divided into 87 regions.
 
@@ -121,7 +121,7 @@ If an alliance already controls the region:
 
 Tip: To keep control and maximize Victory Points, encourage alliance members to keep their regional population growing — falling below 4,000 can cost you both power and progress.
 
-## Punti chiave operativi
+## Key Operational Points
 - Special Servers - Regions and Population
 - In annual specials like Reign of Fire, the Travian: Legends world takes place on a map of Ancient Europe divided into 87 regions.
 - Victory Points (VP) are stored in villages, and both alliances and regional population determine control over them.
@@ -137,9 +137,9 @@ Tip: To keep control and maximize Victory Points, encourage alliance members to 
 - The only exception: spawn regions, where new players appear — those can always be settled.
 - New players spawn in specific regions within each map quarter. Once all spawn spots are filled, new players appear in the next region in the order below.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

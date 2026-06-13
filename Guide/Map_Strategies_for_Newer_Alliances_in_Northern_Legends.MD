@@ -1,9 +1,9 @@
 # Map Strategies for Newer Alliances in Northern Legends
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092456-map-strategies-for-newer-alliances-in-northern-legends
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092456-map-strategies-for-newer-alliances-in-northern-legends
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Northern Legends can feel overwhelming for newer alliances, but the right approach can turn even an inexperienced group into a stable regional power. This guide focuses on practical, achievable strategies that help newer alliances secure regions, grow safely, and enjoy the scenario without being crushed early by top-tier alliances.
 
@@ -104,7 +104,7 @@ Positive alliance morale keeps players active and engaged. Each Annual Special b
 
 With smart settling, defensive play, careful region selection, and strong coordination, a newer alliance can absolutely thrive in Northern Legends—even without aiming for server-wide domination.
 
-## Punti chiave operativi
+## Key Operational Points
 - Map Strategies for Newer Alliances in Northern Legends
 - Regions that unlock early—especially small boots regions near the initial spawn areas (e.g., Vandali, Eburacum, Segovia, Halicarnassus)—often become immediate battlegrounds for top alliances.
 - If your alliance is still learning or lacks numbers, avoid these hotspots. Instead:
@@ -120,9 +120,9 @@ With smart settling, defensive play, careful region selection, and strong coordi
 - They are far easier to hold and still provide a meaningful advantage
 - This lets you grow without constantly fighting elite alliances.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

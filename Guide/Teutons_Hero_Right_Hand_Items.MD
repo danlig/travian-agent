@@ -1,9 +1,9 @@
 # Teutons - Hero Right-Hand Items
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000095983-teutons-hero-right-hand-items
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000095983-teutons-hero-right-hand-items
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 #### Club of the Clubswinger
 - +250 fighting strength
@@ -80,7 +80,7 @@ Sezione origine: Advanced Gameplay
 - +15 attack for each Teutonic Knight
 - +15 defence for each Teutonic Knight
 
-## Punti chiave operativi
+## Key Operational Points
 - Teutons - Hero Right-Hand Items
 
 Tier 1 Tier 2 Tier 3
@@ -96,7 +96,7 @@ Spear of the Spearman
 +250 fighting strength
 +3 attack for each Spearman
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

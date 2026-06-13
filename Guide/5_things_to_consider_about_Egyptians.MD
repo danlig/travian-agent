@@ -1,9 +1,9 @@
 # 5 things to consider about Egyptians
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091807-5-things-to-consider-about-egyptians
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091807-5-things-to-consider-about-egyptians
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 First of all, Egyptians are great economists and this is what comes as their main strength when we talk about them.
 
@@ -19,15 +19,15 @@ That’s why it’s not wise to train slave militia for stationary defence, espe
 
 All in all Egyptians are a good choice for the players that already have some basic knowledge about the game. Their game start might not be the easiest and they require some time to develop their account in peace. At later stages Egyptians become a strong force due to their better economy.
 
-## Punti chiave operativi
+## Key Operational Points
 - First of all, Egyptians are great economists and this is what comes as their main strength when we talk about them.
 - Let’s look into 5 more things to consider about Egyptians.
 - Egyptian usual style of playing can be put down to 2 main features: flourishing economy and focus on defence rather than offence.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

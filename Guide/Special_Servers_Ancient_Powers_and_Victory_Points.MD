@@ -1,9 +1,9 @@
 # Special Servers - Ancient Powers and Victory Points
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000070347-special-servers-ancient-powers-and-victory-points
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000070347-special-servers-ancient-powers-and-victory-points
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 On annual special servers, the map is divided into 87 regions. Each region may provide ancient powers and contributes to Victory Points (VPs), which determine the winning alliance. Victory Points are stored in villages and can be gained or lost depending on gameplay actions.
 
@@ -99,7 +99,7 @@ If conquered by a player outside the alliance (even within the same coalition):
 - If a player deletes their avatar, all VPs are deleted, even if the Natars take over the villages.
 Natar-held villages never contain Victory Points.
 
-## Punti chiave operativi
+## Key Operational Points
 - Special Servers - Ancient Powers and Victory Points
 - Only one account-wide power can be active at a time.
 - Each activation lasts 24 hours, no matter the server speed.
@@ -115,10 +115,10 @@ Natar-held villages never contain Victory Points.
 - VPs stay with villages, but villages can change alliances or owners.
 - Leaving an alliance: 50% of the VPs in your villages are lost.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

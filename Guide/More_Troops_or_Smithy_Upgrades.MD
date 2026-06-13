@@ -1,9 +1,9 @@
 # More Troops or Smithy Upgrades?
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092532-more-troops-or-smithy-upgrades-
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092532-more-troops-or-smithy-upgrades-
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 A common question for both new and experienced Travian: Legends players is when it makes more sense to upgrade units in the Smithy instead of simply training more troops. This guide helps you understand how to decide the right moment to invest in upgrades for maximum benefit.
 
@@ -32,7 +32,7 @@ Below you will find the full upgrade efficiency tables for every tribe. Each tab
 - Spartans (Hoplite, Sentinel, Shieldsman, Twinsteel Therion, Elpida Rider, Corinthian Crusher)
 - Vikings (Thrall, Shield’s Maiden, Berserker, Heimdall’s Eye, Huskarl Rider, Valkyrie’s Blessing)
 
-## Punti chiave operativi
+## Key Operational Points
 - Smithy upgrades increase the combat strength of your units. However, upgrades cost resources, so the key question is: When does upgrading provide more value than training additional units?
 - The tables in this guide show how many troops of each type you should have before upgrading becomes more efficient than training new ones.
 - Before using the tables, keep these points in mind:
@@ -48,7 +48,7 @@ Below you will find the full upgrade efficiency tables for every tribe. Each tab
 - Egyptians (Slave Militia, Ash Warden, Khopesh Warrior, Sopdu Explorer, Anhur Guard, Resheph Chariot)
 - Spartans (Hoplite, Sentinel, Shieldsman, Twinsteel Therion, Elpida Rider, Corinthian Crusher)
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

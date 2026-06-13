@@ -1,9 +1,9 @@
 # Known bugs in Travian: Legends
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000058497
-Sezione origine: Basic Gameplay, Advanced Gameplay, Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000058497
+Source section: Basic Gameplay, Advanced Gameplay, Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 This article lists all major known bugs in Travian: Legends. It's not necessary to report those issues to us. We try to fix them as soon as possible. Thank you for being so patient.
 
@@ -48,7 +48,7 @@ If you enable this mode, quit settings and reopen them, this setting is shown as
 
 This list includes only bugs that affect the game when playing through the mobile app.
 
-## Punti chiave operativi
+## Key Operational Points
 - This article lists all major known bugs in Travian: Legends. It's not necessary to report those issues to us. We try to fix them as soon as possible. Thank you for being so patient.
 - Just so you know, this article does not list other issues in the game, for example, related to the server performance. Such issues can be found on the Travian: Legends Official Discord Server.
 - Please also check our changelogs, which are published in the Travian: Legends Lobby.
@@ -64,8 +64,8 @@ This list includes only bugs that affect the game when playing through the mobil
 - [FIXED] X button doesn't close the send resources screen
 - For some players, it's not possible to close the send resources screen once it was opened from the map. We are investigating this issue.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.

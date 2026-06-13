@@ -1,9 +1,9 @@
 # The Use of Catapults
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092496-the-use-of-catapults
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092496-the-use-of-catapults
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Catapults are long-range siege units used to destroy enemy buildings and resource fields in Travian: Legends. They require careful planning because their effectiveness depends on attack type, Rally Point level, upgrades, and artefact effects.
 
@@ -104,7 +104,7 @@ You want to destroy a level 20 building in a capital with:
 Calculation:
 36 × 3 × 4 = 432 catapults needed to destroy one level 20 building completely.
 
-## Punti chiave operativi
+## Key Operational Points
 - Catapults only fire in a normal attack, not in raids.
 - They need time to shoot, so their damage is applied only after they arrive.
 - Their efficiency is influenced by various factors, including your Rally Point, smithy upgrades, and defender bonuses.
@@ -120,9 +120,9 @@ Calculation:
 - Does NOT increase catapult destruction power
 - More catapults are needed to destroy the same target
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

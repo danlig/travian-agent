@@ -1,9 +1,9 @@
 # Getting Ready for the Artefact Release
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092457-getting-ready-for-the-artefact-release
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092457-getting-ready-for-the-artefact-release
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 On Wonder of the World gameworlds, the artefact release is a turning point. Artefacts shape the endgame and give powerful bonuses to their owners. If you’re new to artefacts, start with the overview of artefact effects and the step-by-step guide to capturing artefacts.
 
@@ -57,7 +57,7 @@ Scout the closest artefact of a tier, then use the ratios to estimate the others
 - Follow the detailed instructions for capturing artefacts.
 - After the artefacts, prepare for the next milestones with: How to get ready for Construction Plan release and Building a World Wonder.
 
-## Punti chiave operativi
+## Key Operational Points
 - Pick the right hero loadout. If you’re clearing Natars, equipping the Natar Horn (left-hand item) adds 20–30% attack against Natars depending on tier.
 - Choose a capture village. You’ll need an empty Treasury at the correct level: 10 for small artefacts, 20 for large and unique.
 - Plan your timing. The most valuable artefacts are often captured within minutes. Be online when the artefacts appear.
@@ -73,9 +73,9 @@ Scout the closest artefact of a tier, then use the ratios to estimate the others
 - Defense formula: Base Natar defense × gameworld speed × a random world multiplier.
 - Scouts are present in artefact villages (unlike independent Natar villages). Send at least 200–400 scouts if you want reliable reports.
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

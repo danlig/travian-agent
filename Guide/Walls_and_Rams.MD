@@ -1,9 +1,9 @@
 # Walls and Rams
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000065986-walls-and-rams
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000065986-walls-and-rams
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Building a wall helps protect your village from enemy attacks. Higher wall levels give your defending troops a stronger defensive bonus. Each tribe has its own wall type, with different strengths and durability.
 
@@ -69,7 +69,7 @@ Viking Barricade
  1.5% per level
 ```
 
-## Punti chiave operativi
+## Key Operational Points
 - Building a wall helps protect your village from enemy attacks. Higher wall levels give your defending troops a stronger defensive bonus. Each tribe has its own wall type, with different strengths and durability.
 - Defensive bonus similar to the Gaul Palisade
 - Low defensive bonus (worse than Teutons)
@@ -85,7 +85,7 @@ Viking Barricade
 - Level 10: ~34.4% bonus (1.03¹⁰), not just 30%
 - Rams’ effectiveness increases with their upgrade level, just like catapults.
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Brewery
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000065345-brewery
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000065345-brewery
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The Brewery produces mead that boosts your troops during celebrations. While a celebration is active, your attacking troops become braver and stronger, receiving a +1% attack bonus per Brewery level.
 
@@ -25,7 +25,7 @@ If the Brewery is rebuilt (even in a different village), the celebration effects
 
 In the table below you can find the construction costs and time, as well as the bonus for each level of Brewery.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Brewery produces mead that boosts your troops during celebrations. While a celebration is active, your attacking troops become braver and stronger, receiving a +1% attack bonus per Brewery level.
 - Your chiefs’ persuasion strength is reduced by 50%
 - The Brewery can only be built by Teutons, only in the capital, but its effects apply to your entire account.
@@ -36,7 +36,7 @@ In the table below you can find the construction costs and time, as well as the 
 - If the Brewery is rebuilt (even in a different village), the celebration effects return to normal immediately.
 - In the table below you can find the construction costs and time, as well as the bonus for each level of Brewery.
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

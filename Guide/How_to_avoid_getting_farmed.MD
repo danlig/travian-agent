@@ -1,9 +1,9 @@
 # How to avoid getting farmed
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092526-how-to-avoid-getting-farmed
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092526-how-to-avoid-getting-farmed
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Getting farmed means other players repeatedly attack you to steal your resources. Especially for new players, this can slow down your progress and make the game frustrating. The good news: there are several ways to make yourself a less attractive target.
 
@@ -67,7 +67,7 @@ You might think that building multiple crannies would protect your resources. In
 
 Building one cranny early can help, but relying on many crannies slows your progress compared to players who invest in proper defense and development.
 
-## Punti chiave operativi
+## Key Operational Points
 - Below you’ll find practical steps you can take to protect your villages and discourage farmers.
 - Farmers often target players who appear inactive. Many use “inactive search” tools or simply watch nearby villages for signs of slow growth.
 - Increase your population regularly throughout the day.
@@ -83,9 +83,9 @@ Building one cranny early can help, but relying on many crannies slows your prog
 - Never leave large amounts of resources sitting in your villages while you’re offline. Before logging out:
 - Send resources to your capital or another well-defended village.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

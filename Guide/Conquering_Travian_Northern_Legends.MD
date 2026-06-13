@@ -1,9 +1,9 @@
 # Conquering Travian: Northern Legends
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092449-conquering-travian-northern-legends
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092449-conquering-travian-northern-legends
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Northern Legends is a special annual Travian: Legends scenario that introduces unique mechanics, region control, and new strategic opportunities. Success here depends on adaptability, resource planning, and strong teamwork. This guide highlights key tips to help you and your alliance navigate this scenario effectively.
 
@@ -116,7 +116,7 @@ To succeed in Northern Legends:
 
 Mastering these principles will give you the flexibility and strength needed to thrive in Travian’s most dynamic annual scenario.
 
-## Punti chiave operativi
+## Key Operational Points
 - If your starting location is weak, unsafe, or far from strategic regions, respawn early.
 - This lets you reposition without losing much progress.
 - Important: Non-refundable gold (NPC trades, instant completes, etc.) is lost when respawning, so spend gold carefully.
@@ -132,11 +132,11 @@ Mastering these principles will give you the flexibility and strength needed to 
 - Relying on just offense or just defense is rarely optimal in Northern Legends.
 - A hybrid approach, with both offensive and defensive troops, gives you flexibility and helps your alliance react to changing threats.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Hero Armour Items
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000068828-hero-armour-items
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000068828-hero-armour-items
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Hero armour items provide bonuses to experience gain, health regeneration, damage reduction, fighting strength, and troop training speed. Each equipment category—Helmets, Armour, and Boots—is divided into Tier 1, Tier 2, and Tier 3, with higher tiers offering stronger effects.
 
@@ -111,7 +111,7 @@ Great Spurs
 - +5 fields/hour on 1x
 - +10 fields/hour on 3x
 
-## Punti chiave operativi
+## Key Operational Points
 - This guide explains what each item does so you can choose the right equipment for your hero.
 - Helmet of Regeneration – +10 HP regeneration/day
 - Helmet of the Horseman – +10% cavalry training
@@ -127,7 +127,7 @@ Great Spurs
 - Light Breastplate – +250 fighting strength
 - Light Segmented Armour – Damage −3; +125 fighting strength
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.

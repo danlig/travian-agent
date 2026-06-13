@@ -1,9 +1,9 @@
 # Legends’ Auction House 2.0
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000094754-legends-auction-house-2-0
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000094754-legends-auction-house-2-0
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 New Auction House Arrives
 
@@ -31,7 +31,7 @@ Introducing a transaction fee system: when an item is sold through the Auction H
 
 This improved Auction House is here to stay – giving you more speed, control, and flexibility than ever before.
 
-## Punti chiave operativi
+## Key Operational Points
 - A brand-new Auction House is being introduced to Travian: Legends – not just as a feature of the Annual Special, but as a permanent upgrade for all gameworlds starting August 1st.
 - This overhaul was necessary to ensure full compatibility with the Item Crafting system – but it brings much more than that.
 - More than just a visual revamp, the new Auction House comes with a number of powerful improvements:
@@ -43,6 +43,6 @@ This improved Auction House is here to stay – giving you more speed, control, 
 - Introducing a transaction fee system: when an item is sold through the Auction House, 2% of the winning bid goes to the Natars. The seller receives 98% of the final price.
 - This improved Auction House is here to stay – giving you more speed, control, and flexibility than ever before.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.

@@ -1,9 +1,9 @@
 # Game Versions and Speed
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000068688-game-versions-and-speed
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000068688-game-versions-and-speed
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Travian: Legends is available in several game versions and speeds. While the core gameplay remains the same, each version and speed offers a unique experience that can significantly affect your strategy.
 
@@ -1029,7 +1029,7 @@ The Tribes and Their Advantages
 
 ✅ Tip: If you’re new to Travian, start with a regular x1 or x2 speed gameworld. Once you’re comfortable, try faster servers or special events for new challenges.
 
-## Punti chiave operativi
+## Key Operational Points
 - Travian: Legends is available in several game versions and speeds. While the core gameplay remains the same, each version and speed offers a unique experience that can significantly affect your strategy.
 - Travian gameworlds are divided into five regions:
 - You’re free to join any region regardless of where you live. Each region offers gameworlds of different speeds and versions, and all gameworlds support every available language.
@@ -1045,11 +1045,11 @@ The Tribes and Their Advantages
 - Auction duration: ~24 hours ~12 hours ~8 hours ~4 hours ~2 hours
 - Smelting time: 24 hours 24 hours 12 hours 12 hours 6 hours
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Expansion Slots
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060383-expansion-slots
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060383-expansion-slots
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### What are Expansion Slots?
 
@@ -42,7 +42,7 @@ If a slot is already used and you want to reuse it, you can free it by:
 - Conquering that same village yourself from another of your own villages, or
 - Waiting for the player who owns that village to delete their account.
 
-## Punti chiave operativi
+## Key Operational Points
 - To found or conquer a new village, you need a free expansion slot.
 - You can check if your village still has an available slot by:
 - Opening your Residence, Palace, or Command Center.
@@ -58,6 +58,6 @@ If a slot is already used and you want to reuse it, you can free it by:
 - If a slot is already used and you want to reuse it, you can free it by:
 - Destroying the village that was founded from it,
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

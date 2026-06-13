@@ -1,9 +1,9 @@
 # The Egyptians and Their Advantages
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000095593-the-egyptians-and-their-advantages
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000095593-the-egyptians-and-their-advantages
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### Overview
 
@@ -42,7 +42,7 @@ Weaknesses: Weak offense and limited mobility compared to other tribes.
 
 If you prefer strategic building, economic power, and unbeatable defenses, the Egyptians are your best choice.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Egyptians are master builders and economic experts, famed for their monumental pyramids and ingenious use of the River Nile to improve agriculture.
 - Their civilization thrives on organization and efficiency, making them one of the strongest tribes in terms of resource production and defense.
 - Although their days of ancient glory are past, the Egyptians remain a formidable force, capable of producing vast resources and training armies quickly and cheaply. They shine in defensive play and provide immense support to their allies.
@@ -58,9 +58,9 @@ If you prefer strategic building, economic power, and unbeatable defenses, the E
 - Weak Attack Offensive units are not as powerful as those of other tribes.
 - Merchants Carry 750 resources (speed: 16 fields/hour).
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

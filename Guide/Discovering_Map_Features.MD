@@ -1,9 +1,9 @@
 # Discovering Map Features
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092466-discovering-map-features
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092466-discovering-map-features
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 The map in Travian: Legends offers many features that can give you an advantage if you know where to look. This guide will help you get the most out of the map by highlighting important details, navigation tips, and ways to organize your strategy.
 
@@ -53,7 +53,7 @@ To keep the map useful for everyone:
 
 If you follow these steps, you’ll navigate and use the map more efficiently, helping you coordinate with your alliance and make smarter strategic decisions in Travian: Legends.
 
-## Punti chiave operativi
+## Key Operational Points
 - Each map tile has unique details that can help you identify its type:
 - Resource Tiles: Landscape features like trees or stacks can indicate resource distribution. For example, a 4-4-4-6 tile has two trees in opposite corners, while a 4-3-5-6 tile shows two stacks.
 - Croppers: 9- and 15-cropper tiles often look almost empty, but small markings reveal their type.
@@ -69,7 +69,7 @@ If you follow these steps, you’ll navigate and use the map more efficiently, h
 - Mark Alliance: Outlines all villages and oases of a particular alliance.
 - Mark Player: Outlines villages and oases of a specific player.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

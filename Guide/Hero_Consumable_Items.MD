@@ -1,9 +1,9 @@
 # Hero Consumable Items
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000063372-hero-consumable-items
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000063372-hero-consumable-items
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Consumables are one-time-use items that provide immediate effects when used or equipped. Some are used individually (like a Bucket), while others can be used in larger quantities at once (like Scrolls or Bandages).
 
@@ -67,7 +67,7 @@ Examples match the original file exactly.
 - Increases village loyalty by 1% per tablet, in the hero’s home village.
 - Normal loyalty cap is 100%, but Tablets allow you to raise it up to 125%.
 
-## Punti chiave operativi
+## Key Operational Points
 - Consumables are one-time-use items that provide immediate effects when used or equipped. Some are used individually (like a Bucket), while others can be used in larger quantities at once (like Scrolls or Bandages).
 - Below you’ll find an overview of each consumable and how it works.
 - The amount depends on your avatar’s CP production and the gameworld speed.
@@ -83,9 +83,9 @@ Examples match the original file exactly.
 - If bandages are fewer than needed, each troop type is restored at the same percentage, and any remaining bandages revive units from left to right.
 - Examples match the original file exactly.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

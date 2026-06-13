@@ -1,9 +1,9 @@
 # Conquering Villages
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000064014-conquering-villages
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000064014-conquering-villages
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ## Conquering Villages
 
@@ -189,7 +189,7 @@ To successfully conquer a village, focus on:
 
 Rushing or combining everything into one attack will usually fail.
 
-## Punti chiave operativi
+## Key Operational Points
 - To conquer a village, you must reduce its loyalty to 0% using your administrator(s).
 - This will only work if all of the following conditions are met:
 - The target village does not have an active administration building (Residence, Palace, or Command Center).
@@ -205,9 +205,9 @@ Rushing or combining everything into one attack will usually fail.
 - Gaul Chieftain – reduces loyalty by 20–25% (faster)
 - Egyptian Nomarch – reduces loyalty by 20–25%
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

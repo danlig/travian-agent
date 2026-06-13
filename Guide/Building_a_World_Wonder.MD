@@ -1,9 +1,9 @@
 # Building a World Wonder
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092463-building-a-world-wonder
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092463-building-a-world-wonder
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 A World Wonder is a special Natar village. The first alliance to build it to level 100 wins the gameworld. This guide covers when WWs unlock, how to conquer one, what you can (and can’t) use there, and a practical build plan your alliance can follow. For context, the timeline on page 2 shows the x1 flow: WWs unlock ~day 130, construction plans ~day 180.
 
@@ -60,7 +60,7 @@ The table on page 7 lists build durations for key buildings at x1/x2/x3/x5/x10. 
 - Expect coordinated hammer waves; keep wall repaired and storage above the million mark per resource.
 - Revisit route timing daily; tighten cycles as your alliance scales up deliveries.
 
-## Punti chiave operativi
+## Key Operational Points
 - Unlocks & interaction: Before unlock, you can’t scout or attack WWs (x1: locked until ~day 130).
 - To build > level 0 up to 49: 1 construction plan held within your alliance.
 - Level 50–100: 2 construction plans—one held by the WW owner and one by a co-ally.
@@ -76,10 +76,10 @@ The table on page 7 lists build durations for key buildings at x1/x2/x3/x5/x10. 
 - You need ≥1,000,000 capacity for each resource to finish WW 100—add headroom to absorb hits. (Tip on page 5.)
 - Recommended build order (quick checklist)
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Troops Speed Increase & Tournament Square
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000068300-troops-speed-increase-tournament-square
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000068300-troops-speed-increase-tournament-square
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Troop movement speed can be increased in several ways. These bonuses can come from hero items, artefacts, and the Tournament Square building. All speed bonuses are stackable, but some work differently depending on distance.
 
@@ -66,7 +66,7 @@ Base speed × 2 (artefact) × 1.2 (standard) × (1 + 0.25 + 2) = 5.65× base spe
 
 In the table below you can find the construction costs and time, as well as the bonus for each level of Tournament Square.
 
-## Punti chiave operativi
+## Key Operational Points
 - Troops Speed Increase & Tournament Square
 - Troop movement speed can be increased in several ways. These bonuses can come from hero items, artefacts, and the Tournament Square building. All speed bonuses are stackable, but some work differently depending on distance.
 - Increase troop movement speed between your own villages.
@@ -82,10 +82,10 @@ In the table below you can find the construction costs and time, as well as the 
 - At level 20, the total bonus is +500%, meaning troops move 5× their base speed after the first 20 fields.
 - Tournament Square requires Rally Point level 15.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

@@ -1,9 +1,9 @@
 # Oasis
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000061166-oasis
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000061166-oasis
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 At the beginning of the game, oases are occupied by wild animals and do not produce any resources. Resource production only starts once all animals in the oasis have been removed—either by killing them or capturing them. During the early game, nature troops spawn only once. If you clear the oasis during this phase, it remains empty until the end of Beginner Protection (depending on server speed). After that, nature troops can spawn again and will slowly multiply. The fewer animals left, the faster they respawn.
 
@@ -120,7 +120,7 @@ Release time:
 
 Note: If your village is conquered, all its oases are automatically released—even if you later recapture your own village.
 
-## Punti chiave operativi
+## Key Operational Points
 - The hero does not need to survive for this reward to be granted.
 - Each resource type has two kinds of oases:
 - Type 1: Produces only one resource (e.g., wood, clay, iron, or 25% crop).
@@ -136,9 +136,9 @@ Note: If your village is conquered, all its oases are automatically released—e
 - +25% crop per hour 10 40 10 41 2000 each
 - +50% clay per hour (only available in the grey Natarian area) 10 80 10 11 2000 each
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

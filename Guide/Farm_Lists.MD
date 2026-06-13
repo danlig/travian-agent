@@ -1,9 +1,9 @@
 # Farm Lists
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000064015-farm-lists
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000064015-farm-lists
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The Farm List is a premium feature included in the Gold Club. It allows you to manage and send multiple raids quickly and efficiently, saving time and improving resource farming.
 
@@ -51,7 +51,7 @@ Farm Lists are ideal for:
 
 The interface allows easy list management — each list shows the number of active targets, last raid times, and quick options to edit, deactivate, or start raids.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Farm List is a premium feature included in the Gold Club. It allows you to manage and send multiple raids quickly and efficiently, saving time and improving resource farming.
 - You can access the Farm List through your Rally Point by selecting the Farm List tab.
 - If the tab appears gold, you need to purchase the Gold Club to activate this feature.
@@ -67,7 +67,7 @@ The interface allows easy list management — each list shows the number of acti
 - Open the list manually and start raids for selected targets only.
 - Deactivate specific entries to temporarily exclude them from raids (useful if the target now has defenders).
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

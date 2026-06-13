@@ -1,9 +1,9 @@
 # Finish constructions and research orders
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000061579-finish-constructions-and-research-orders
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000061579-finish-constructions-and-research-orders
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 You can instantly finish ongoing construction and research in a village by spending Gold.
 
@@ -23,13 +23,13 @@ For gameplay reasons, instant finish cannot be used on:
 - World Wonder villages
 - The World Wonder itself
 
-## Punti chiave operativi
+## Key Operational Points
 - Finish constructions and research orders
 - You can instantly finish ongoing construction and research in a village by spending Gold.
 - Keep in mind that this feature applies only to construction and research. It does not affect:
 - For gameplay reasons, instant finish cannot be used on:
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

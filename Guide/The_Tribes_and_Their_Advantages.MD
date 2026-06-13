@@ -1,9 +1,9 @@
 # The Tribes and Their Advantages
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000061162-the-tribes-and-their-advantages
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000061162-the-tribes-and-their-advantages
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 One of the first and most important decisions in Travian: Legends is choosing your tribe. Each tribe has its own unique strengths, weaknesses, and playstyle. Picking the right one will depend on whether you prefer attacking, defending, supporting allies, or growing steadily.
 
@@ -116,7 +116,7 @@ There is no single “best” tribe — the right choice depends on your playsty
 
 Take your time exploring each tribe — every choice will change your Travian journey!
 
-## Punti chiave operativi
+## Key Operational Points
 - This guide will help you understand what each tribe offers so you can make the best choice for your journey.
 - Vikings (find out more about their advantages)
 - A fearsome new addition to Travian: Legends, the Vikings are strong raiders with powerful infantry and efficient cavalry.
@@ -132,9 +132,9 @@ Take your time exploring each tribe — every choice will change your Travian jo
 - Specials: Horse Drinking Trough (reduces cavalry crop consumption), strong city wall.
 - Merchants: Carry 500 resources, move at 16 fields/hour.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Community Week - Overview of Balance Changes
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000094448-community-week-overview-of-balance-changes
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000094448-community-week-overview-of-balance-changes
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 During Community Week, the Roman, Teuton, and Gaul tribes receive specific balance adjustments based on suggestions from the Travian: Legends community. These changes were first introduced during the Restoring Rome event (Romans) and later expanded during The Barbarians (Teutons and Gauls). All Community Week gameworlds apply these rebalanced parameters.
 
@@ -63,7 +63,7 @@ Community Week balance adjustments encourage new strategies and allow players to
 
 If you need help understanding a specific unit or how changes affect gameplay, feel free to explore the tribe-specific articles.
 
-## Punti chiave operativi
+## Key Operational Points
 - Community Week - Overview of Balance Changes
 - This article explains what Community Week changes mean and how to read the updated unit information.
 - Full unit details for each tribe are available in dedicated articles.
@@ -79,7 +79,7 @@ If you need help understanding a specific unit or how changes affect gameplay, f
 - Prepare early-, mid-, and late-game strategies
 - If you need help understanding a specific unit or how changes affect gameplay, feel free to explore the tribe-specific articles.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

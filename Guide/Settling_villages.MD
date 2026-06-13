@@ -1,9 +1,9 @@
 # Settling villages
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000080181-settling-villages
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000080181-settling-villages
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### Why settle a new village?
 
@@ -55,7 +55,7 @@ This can be faster, but also much more difficult — it requires careful prepara
 
 > Conquering Villages
 
-## Punti chiave operativi
+## Key Operational Points
 - Every player begins Travian: Legends with one village. Upgrading buildings and raiding nearby oases or inactive neighbors helps you grow early on — but true progress starts when you expand.
 - Strengthen control over a strategic area with your alliance, and
 - Secure special map spots, such as 9-crop or 15-crop villages (and in some special gameworlds even 18-crop).
@@ -71,8 +71,8 @@ This can be faster, but also much more difficult — it requires careful prepara
 - Always coordinate with your alliance before expanding.
 - This is crucial on regional map servers, where every village contributes to regional control and territorial bonuses.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

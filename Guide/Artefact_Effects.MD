@@ -1,9 +1,9 @@
 # Artefact Effects
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060572-artefact-effects
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060572-artefact-effects
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Artefacts provide powerful bonuses that affect villages or entire accounts, depending on their size and type. This article explains all available artefact effects, how their strength and scope work, and which special rules apply. It is intended as a reference for late-game gameplay decisions and to clarify common misunderstandings.
 
@@ -134,7 +134,7 @@ Important:
 - Activation time depends on server speed
 - On high-speed servers, conquering the artefact from yourself may cause it to change effect immediately and activate before the next change cycle
 
-## Punti chiave operativi
+## Key Operational Points
 - Most artefact effects exist in three sizes, which determine how widely the effect is applied:
 - Small artefacts – affect only the village where the artefact is active
 - Large artefacts – affect the entire account
@@ -150,9 +150,9 @@ Important:
 - Small (village-wide): Troops move 2× faster
 - Large (account-wide): Troops move 1.5× faster
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

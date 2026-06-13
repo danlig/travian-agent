@@ -1,9 +1,9 @@
 # Settling and Securing village in a Grey Area
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092465-settling-and-securing-village-in-a-grey-area
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092465-settling-and-securing-village-in-a-grey-area
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 ## What is the grey area?
 
@@ -69,7 +69,7 @@ This also totals 29 targets, with Stonemason’s as the final population anchor.
 - Keep fields and pop-giving buildings ticking up until you cross the safe threshold.
 - After the waves pass, optimize (demolish crannies/temporary steps) and shape the village for its long-term role.
 
-## Punti chiave operativi
+## Key Operational Points
 - Settling and Securing village in a Grey Area
 - On World Wonder gameworlds, the grey area is the central zone around the Volcano. It has special pros/cons and unique risks right after you settle.
 - All oases give +50% bonus (wood, clay, iron, crop).
@@ -85,9 +85,9 @@ This also totals 29 targets, with Stonemason’s as the final population anchor.
 - Stock resources in your hero inventory to bootstrap builds (farm oases or finish quests as needed).
 - Be ready to spend some Gold on instant finishes if you have it.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

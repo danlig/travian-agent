@@ -1,9 +1,9 @@
 # Culture Points (CP)
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000065115-culture-points-cp-
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000065115-culture-points-cp-
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### What are Culture Points?
 
@@ -107,7 +107,7 @@ You must have enough Culture Points for the next village:
 
 When conquering a village, you also need enough Culture Points at the time of the battle to lower enemy loyalty successfully. For more information, see: Conquering Villages
 
-## Punti chiave operativi
+## Key Operational Points
 - Culture Points (CP) determine how many villages you can own.
 - Each new village — whether you settle it or conquer it — requires a certain amount of CP.
 - Building and upgrading structures in your villages.
@@ -123,7 +123,7 @@ When conquering a village, you also need enough Culture Points at the time of th
 - 33 4634000 2317000 1544700 926800 463400
 - 34 4974000 2487000 1658000 994800 497400
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

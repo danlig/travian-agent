@@ -1,9 +1,9 @@
 # Adventures
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060172-adventures
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060172-adventures
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Adventures act as a simple quest system for your hero. There are no tasks to complete inside an adventure—your hero only needs to travel to the adventure location shown on the map. Once the hero arrives, it explores the spot and then automatically returns to the village if it survives.
 
@@ -81,7 +81,7 @@ Spawn rates scale with server speed. For example, on a x3 gameworld:
 - Days 5.33–21: ~4.5 per day
 - Day 21 onward: 3 per day
 
-## Punti chiave operativi
+## Key Operational Points
 - You can see available adventures on the map and in the hero panel, where a full list is shown.
 - They do not depend on the hero’s home village or the hero’s current location.
 - Adventure difficulty increases gradually. Before sending your hero, you always see whether an adventure is Normal or Heavy:
@@ -97,8 +97,8 @@ Spawn rates scale with server speed. For example, on a x3 gameworld:
 - Scattered troops (they join your village)
 - The first 10 adventures always give fixed rewards in this order:
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

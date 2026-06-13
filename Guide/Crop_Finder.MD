@@ -1,9 +1,9 @@
 # Crop Finder
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000061582-crop-finder
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000061582-crop-finder
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### What is the Crop Finder?
 
@@ -21,12 +21,12 @@ This tool is available only to players who have activated the Gold club features
 - Enter your desired coordinates and village search range.
 - View the results — the tool will display all matching villages and nearby oases.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Crop Finder is a Gold Club feature that helps you locate the best crop villages on the map.
 - This tool is available only to players who have activated the Gold club features.
 - Enter your desired coordinates and village search range.
 - View the results — the tool will display all matching villages and nearby oases.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

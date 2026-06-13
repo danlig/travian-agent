@@ -1,9 +1,9 @@
 # Hero in the early game
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092525-hero-in-the-early-game
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092525-hero-in-the-early-game
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Your hero plays a vital role in your early game progress — both for your economy and for securing your future capital. Managing your hero well can make the difference between a fast start and falling behind.
 
@@ -85,7 +85,7 @@ To progress quickly:
 
 Taking care of your hero means taking care of your entire account’s development — especially when aiming for a fast and efficient start in Travian: Legends.
 
-## Punti chiave operativi
+## Key Operational Points
 - Your hero plays a vital role in your early game progress — both for your economy and for securing your future capital. Managing your hero well can make the difference between a fast start and falling behind.
 - In the early game, every hour counts. Losing your hero in an adventure or risky oasis raid can set you back for hours and delay your second village.
 - Because many players assign all their hero points into resource production at the start, keeping the hero alive is even more important.
@@ -101,9 +101,9 @@ Taking care of your hero means taking care of your entire account’s developmen
 - 3 2–7% 7–12% Troops Available from start
 - (For speed gameworlds, divide the hours by the world speed — e.g. /2 for x2, /3 for x3.)
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

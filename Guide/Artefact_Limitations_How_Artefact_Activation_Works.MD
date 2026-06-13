@@ -1,9 +1,9 @@
 # Artefact Limitations – How Artefact Activation Works
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000069907-artefact-limitations-how-artefact-activation-works
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000069907-artefact-limitations-how-artefact-activation-works
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 You can hold many artefacts, but only a limited number can be active at the same time. Understanding how activation works helps you plan your strategy and avoid unexpected changes in your artefact effects.
 
@@ -72,7 +72,7 @@ Now the order changes, and the active artefacts are:
 
 C is no longer active because D and E are now the older village-scope artefacts.
 
-## Punti chiave operativi
+## Key Operational Points
 - Artefact Limitations – How Artefact Activation Works
 - You can hold many artefacts, but only a limited number can be active at the same time. Understanding how activation works helps you plan your strategy and avoid unexpected changes in your artefact effects.
 - Village-scope artefacts override an account-scope artefact of the same effect type. These effects do not stack.
@@ -88,7 +88,7 @@ C is no longer active because D and E are now the older village-scope artefacts.
 - D – small, stronger buildings, conquered day 4
 - E – small, village-scope, faster troops, conquered day 5
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

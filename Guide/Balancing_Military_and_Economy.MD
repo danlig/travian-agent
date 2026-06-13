@@ -1,9 +1,9 @@
 # Balancing Military and Economy
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092524-balancing-military-and-economy
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092524-balancing-military-and-economy
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Building a strong defense requires more than just troops — it’s about maintaining the right balance between economic growth and military production. This guide focuses on efficient development for regular defensive accounts, not World Wonder or special “fast defense” setups.
 
@@ -117,7 +117,7 @@ To succeed:
 
 A strong economy supports a strong army — and that’s the foundation of every great defense account in Travian: Legends.
 
-## Punti chiave operativi
+## Key Operational Points
 - The most effective defensive players are those who manage their economy and military in harmony.
 - Accumulate resources with no plan to spend them efficiently, or
 - Start too many projects and run out of resources to complete them.
@@ -133,10 +133,10 @@ A strong economy supports a strong army — and that’s the foundation of every
 - Total – Economic + Infrastructure 4,310,060
 - Hospital 15 194,995 (682,020 for lvl 20)
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Hero overview
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000061665-hero-overview
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000061665-hero-overview
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Every player in Travian: Legends has a hero — a special unit with unique abilities that improve as they gain experience. Your hero can fight alongside your troops, provide village bonuses, and even unlock additional gameplay options like conquering oases.
 
@@ -83,7 +83,7 @@ The Hero’s Mansion lets you view and conquer oases near your village:
 Tip:
 Keep your hero active! Use them for adventures early on to gain equipment, XP, and resources — it’s the fastest way to strengthen your hero and your village at the same time.
 
-## Punti chiave operativi
+## Key Operational Points
 - Each tribe grants its hero a unique passive ability that cannot be upgraded manually:
 - Romans Hero strength increases by 100 points per skill point (instead of 80).
 - Gauls +5 fields/hour speed bonus when mounted (scaled by game speed).
@@ -99,9 +99,9 @@ Keep your hero active! Use them for adventures early on to gain equipment, XP, a
 - Off Bonus Increases attack value of the entire army by 0.2% per point (max 20%). Applies only when the hero joins the attack.
 - Def Bonus Increases defense value of all your own troops when fighting together with the hero in defence by 0.2% per point (max 20%). Home village of the troops does not matter. Does not affect allied troops.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

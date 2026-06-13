@@ -1,9 +1,9 @@
 # Artefacts
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060687-artefacts
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060687-artefacts
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Artefacts are powerful items created by the ancient Natars. Once activated, they provide strong advantages such as reduced crop consumption or increased troop speed. This article explains how artefacts work, when they appear, how they are captured and activated, and which limitations apply.
 
@@ -85,7 +85,7 @@ Artefacts are subject to limitations that affect:
 - Which artefacts can be activated at the same time
 - How effects interact
 
-## Punti chiave operativi
+## Key Operational Points
 - Artefacts grant special effects to the village that activates them. The exact effect depends on the artefact type, while the strength and scope of the effect depend on its size:
 - Small artefacts – affect a single village
 - Large artefacts – affect all villages in an account
@@ -101,9 +101,9 @@ Artefacts are subject to limitations that affect:
 - Before attempting to capture an artefact, you must prepare a suitable treasury:
 - Treasury level 10 is required for small artefacts
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

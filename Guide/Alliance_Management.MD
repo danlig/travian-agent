@@ -1,9 +1,9 @@
 # Alliance Management
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060450-alliance-management
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060450-alliance-management
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Alliance management tools allow alliance leaders and authorized members to organize, communicate, and coordinate their alliance effectively. This article explains which actions are available, which permissions are required, and how common alliance management features work. It is intended to help alliance leaders and officers use these tools correctly without needing customer support.
 
@@ -119,7 +119,7 @@ When writing an in-game message, you can use the following commands as the recip
 
 Alternatively, you can use the alliance button next to the recipient field, which automatically inserts [ally].
 
-## Punti chiave operativi
+## Key Operational Points
 - Alliance management actions are only available to players who have been granted the appropriate rights. By default, the alliance founder has full permissions. Additional rights can be assigned to other members.
 - Alliance leaders and authorized members can:
 - Edit the alliance profile and description
@@ -135,6 +135,6 @@ Alternatively, you can use the alliance button next to the recipient field, whic
 - The alliance description consists of two separate text fields:
 - Text entered in the left field appears on the left side of the profile
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.

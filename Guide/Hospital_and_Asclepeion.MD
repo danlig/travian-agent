@@ -1,9 +1,9 @@
 # Hospital and Asclepeion
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000065344-hospital-and-asclepeion
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000065344-hospital-and-asclepeion
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The Hospital allows you to treat wounded troops so they can rejoin your army. This helps you recover faster after major battles. Healing troops is not cheaper than training new ones — the resource cost is the same — but healing takes half the time of normal training.
 
@@ -75,7 +75,7 @@ It works the same as the Hospital with key differences:
 
 In the tables below you can find the construction costs and time, as well the duration of healing for each level of the Hospital and Asclepeion.
 
-## Punti chiave operativi
+## Key Operational Points
 - When a village has a Hospital, 40% of its losses in any battle return as wounded troops. This applies when:
 - Bandages do not affect how many troops become wounded.
 - Example: If 100 troops die and your hero uses 33 bandages, 33 are saved, and 40 return as wounded.
@@ -91,11 +91,11 @@ In the tables below you can find the construction costs and time, as well the du
 - Barracks level 20 trains an Ash Warden in 80 seconds.
 - Hospital level 20 heals a wounded Ash Warden in 40 seconds.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Early Development: Return on Investment (ROI)
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091814-early-development-return-on-investment-roi-
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091814-early-development-return-on-investment-roi-
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Understanding Return on Investment (ROI) is one of the key skills that separates top Travian: Legends players from casual ones. ROI helps you decide how to spend resources efficiently — ensuring every investment pays off as soon as possible.
 
@@ -91,7 +91,7 @@ ROI helps you make smarter, faster progress.
 
 Mastering ROI ensures every decision moves your account toward faster growth and long-term success.
 
-## Punti chiave operativi
+## Key Operational Points
 - Early Development: Return on Investment (ROI)
 - In Travian: Legends, ROI measures how long it takes for your investment to pay for itself.
 - ROI = Resources Spent ÷ Resources Gained per Hour
@@ -107,9 +107,9 @@ Mastering ROI ensures every decision moves your account toward faster growth and
 - That’s just 3–4 days to recover the investment — and it also gives new culture points and population.
 - Expanding to a new village has a far better ROI than upgrading the Hero’s Mansion for extra oases in this example.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

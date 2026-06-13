@@ -1,9 +1,9 @@
 # Gauls – Community Week Unit Stats
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000096306-gauls-community-week-unit-stats
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000096306-gauls-community-week-unit-stats
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 During Community Week, several Gaul unit parameters are rebalanced based on community feedback. All changed values appear in bold, exactly as provided in the official Community Week data. This article lists every Gaul unit with its full Community Week stats.
 
@@ -217,11 +217,11 @@ Training
 - Training time: 06:18:20
 - Requirements: Palace 10 or Residence 10
 
-## Punti chiave operativi
+## Key Operational Points
 - Requirements: Rally Point 10, Academy 20
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

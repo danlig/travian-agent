@@ -1,9 +1,9 @@
 # 5 things to consider about Gauls
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091810-5-things-to-consider-about-gauls
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091810-5-things-to-consider-about-gauls
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 From the very start of the game and up until now Gauls are a great tribe for new players and for those who prefer to mainly play defensive. Let’s look at 5 important things that we should consider about Gauls.
 - Gauls are the best tribe to have a smooth and peaceful start of the game. Their crannies are 1.5x bigger than those from the other tribes. Gauls have one of the most balanced defences in the game, and they are able to fight successfully against enemy infantry and cavalry on their own. On top of that, Gauls have one of the best early-game defence buildings in the game: the trapper.
@@ -22,16 +22,16 @@ A good result gives a combination of a Theutates Thunders’ village that is use
 
 To sum up, Gauls, being one of the most peaceful tribes that have a variety of defensive tools, is a good choice for the new players. And still even veteran pro defenders often pick Gauls for their speed, all-round defence and sense of independence the Gauls provide.
 
-## Punti chiave operativi
+## Key Operational Points
 - From the very start of the game and up until now Gauls are a great tribe for new players and for those who prefer to mainly play defensive. Let’s look at 5 important things that we should consider about Gauls.
 - This building is quite cheap and has minimal pre-requirements, 25% of the trapped units will be killed even if the enemy attack is successful and they won’t even end up in the hospital.
 - Planning is key. This is true for any tribe, but since Gauls are more often picked by the newer players, it’s worth repeating. Always balance the economy with unit training. Training defence in every village is not the best option.
 - A good result gives a combination of a Theutates Thunders’ village that is used to farm and to gain resources with the multiple defensive villages.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

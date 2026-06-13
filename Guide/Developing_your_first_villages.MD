@@ -1,9 +1,9 @@
 # Developing your first villages
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091812-developing-your-first-villages
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091812-developing-your-first-villages
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 This article explains how to begin developing your account after registration, with a focus on establishing and managing your first two villages efficiently.
 
@@ -54,7 +54,7 @@ Parallel development Support both villages Keeps growth balanced
 Storage Upgrade as needed Prevents resource loss while offline
 ```
 
-## Punti chiave operativi
+## Key Operational Points
 - This article explains how to begin developing your account after registration, with a focus on establishing and managing your first two villages efficiently.
 - Your first main goal in Travian: Legends is to settle a second village as soon as possible.
 - Doing so provides additional resource production and allows you to plan the location of your future capital.
@@ -70,9 +70,9 @@ Storage Upgrade as needed Prevents resource loss while offline
 - Developing resource villages that supply materials to others.
 - Preparing specialized villages (defensive, offensive, or scouting).
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

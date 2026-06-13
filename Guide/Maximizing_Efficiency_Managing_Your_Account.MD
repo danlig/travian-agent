@@ -1,9 +1,9 @@
 # Maximizing Efficiency: Managing Your Account
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092519-maximizing-efficiency-managing-your-account
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092519-maximizing-efficiency-managing-your-account
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Travian: Legends can be time-intensive, especially once your empire expands. This information helps you reduce daily effort, spend less gold, and keep your account running efficiently — even when you can’t be online all the time.
 
@@ -95,7 +95,7 @@ To achieve that:
 
 With a few adjustments, you can play smarter, not longer — and keep your empire thriving with minimal effort.
 
-## Punti chiave operativi
+## Key Operational Points
 - Maximizing Efficiency: Managing Your Account
 - Travian: Legends can be time-intensive, especially once your empire expands. This information helps you reduce daily effort, spend less gold, and keep your account running efficiently — even when you can’t be online all the time.
 - Pick a capital that matches your activity level and gold investment.
@@ -111,11 +111,11 @@ With a few adjustments, you can play smarter, not longer — and keep your empir
 - Planning exchanges in advance keeps production balanced and prevents idle queues.
 - Maintain the right ratio between military and economic villages:
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

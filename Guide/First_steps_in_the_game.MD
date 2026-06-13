@@ -1,9 +1,9 @@
 # First steps in the game
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092522-first-steps-in-the-game
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092522-first-steps-in-the-game
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Starting your journey in Travian: Legends can be exciting — and a little overwhelming. This guide will help you take your first steps effectively, from registration to settling your second village.
 
@@ -151,7 +151,7 @@ To succeed:
 
 With steady growth, smart planning, and teamwork, you’ll have a strong foundation for the rest of the game.
 
-## Punti chiave operativi
+## Key Operational Points
 - Starting your journey in Travian: Legends can be exciting — and a little overwhelming. This guide will help you take your first steps effectively, from registration to settling your second village.
 - Join the most recent gameworld, ideally within one hour of its start. Doing this ensures everyone begins on equal footing and you can take advantage of early-game opportunities.
 - >You can check new and upcoming gameworlds in the Gameworld Schedule.
@@ -167,10 +167,10 @@ With steady growth, smart planning, and teamwork, you’ll have a strong foundat
 - Send your hero on their first adventure — pick the one with the shortest travel time to get the horse reward. Once the horse is equipped, future travel times will update automatically.
 - Plan your second village while your first buildings are upgrading. Your second village will likely be your future capital. Look for a 15-cropper, 9-cropper, or 7-cropper location with good nearby oases.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

@@ -1,9 +1,9 @@
 # Reports
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000066609-reports
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000066609-reports
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 ### What are Reports?
 
@@ -88,7 +88,7 @@ Deletion is permanent and cannot be undone.
 
 > Archive Reports and Messages
 
-## Punti chiave operativi
+## Key Operational Points
 - Reports notify you about events related to your avatar — for example:
 - When you are attacked or attack someone else.
 - When you send or receive reinforcements.
@@ -104,7 +104,7 @@ Deletion is permanent and cannot be undone.
 - This overview may also show older reports than those visible in your personal default view.
 - You can choose to share battle reports with your alliance or with all players on the same server.
 
-## Implicazioni strategiche
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

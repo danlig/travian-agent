@@ -1,9 +1,9 @@
 # Getting Ready for the Construction Plan Release
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092461-getting-ready-for-the-construction-plan-release
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092461-getting-ready-for-the-construction-plan-release
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Construction plans are the final step before a gameworld’s winner is decided. When construction plans appear, World Wonder (WW) owners can finally start building—and from this point the WW village consumes half crop, so it needs much more defence to avoid being destroyed. If your alliance is in the WW race, supplying resources, crop, and defence becomes your main job until the round ends. For the full reference, see the Construction Plans guide.
 
@@ -41,7 +41,7 @@ Due to implementation details, the actual target can shift by 1–2 tiles, and i
 - We can’t find the construction plan: Check the nearest free tile around the listed target—plans can move off the advertised coordinate if it’s blocked.
 - Defence seems inconsistent: Remember construction plan defence only scales with speed; if reports vary, you’re likely looking at reinforcements or timing differences, not a hidden multiplier.
 
-## Punti chiave operativi
+## Key Operational Points
 - Getting Ready for the Construction Plan Release
 - Coordinate with leadership. Alliances assign specific players to capture and to hold construction plans. If you’re a holder, your sending village must have an empty Treasury level 10 (construction plans behave like artefacts).
 - Stage nearby forces. Construction plan villages are Natar; you’ll clear them and destroy their Treasury (level 10) with catapults, then send your hero from the Treasury-10 village to capture.
@@ -57,10 +57,10 @@ Due to implementation details, the actual target can shift by 1–2 tiles, and i
 - Lower Treasury, easier snipe: Because construction plan Natar villages have Treasury 10, they require fewer catapults than artefact villages (which are often Treasury 20). Use your simulator with recent scout reports to set counts.
 - Volunteer your army if leadership opts to clear with several medium stacks instead of one big one.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

@@ -1,9 +1,9 @@
 # NPC Merchant
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000062807-npc-merchant
-Sezione origine: Basic Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000062807-npc-merchant
+Source section: Basic Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The NPC Merchant is a premium Gold feature that costs 3 Gold per use.
 It allows you to redistribute your resources within a village — exchanging any resource type for another at a 1:1 ratio.
@@ -33,7 +33,7 @@ The NPC Merchant cannot be used in the following cases:
 Tip:
 Use the NPC Merchant when you have too much of one resource and not enough of another — it’s especially useful when training troops or finishing a major upgrade.
 
-## Punti chiave operativi
+## Key Operational Points
 - The NPC Merchant is a premium Gold feature that costs 3 Gold per use.
 - It allows you to redistribute your resources within a village — exchanging any resource type for another at a 1:1 ratio.
 - Click “Exchange resources” to open the NPC trade window.
@@ -48,8 +48,8 @@ Use the NPC Merchant when you have too much of one resource and not enough of an
 - The building already has enough resources for the selected upgrade — the button won’t appear.
 - Use the NPC Merchant when you have too much of one resource and not enough of another — it’s especially useful when training troops or finishing a major upgrade.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

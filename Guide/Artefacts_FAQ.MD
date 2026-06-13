@@ -1,9 +1,9 @@
 # Artefacts FAQ
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092460-artefacts-faq
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092460-artefacts-faq
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 ## Do artefact effects stack?
 
@@ -74,7 +74,7 @@ will be active at the same time.
 
 No. Once capture conditions are met, artefacts teleport instantly to the appropriate treasury. They do not physically travel with troops or heroes.
 
-## Punti chiave operativi
+## Key Operational Points
 - No. Artefact effects of the same type do not stack.
 - If you own multiple artefacts with the same effect:
 - A village-scope artefact overrides an account-scope artefact for that specific village
@@ -90,8 +90,8 @@ No. Once capture conditions are met, artefacts teleport instantly to the appropr
 - Village-scope artefacts override account-scope artefacts of the same effect
 - Do unique artefacts override small artefacts?
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

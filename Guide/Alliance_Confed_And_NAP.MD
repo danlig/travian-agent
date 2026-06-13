@@ -1,9 +1,9 @@
 # Alliance, Confed & NAP
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060571-alliance-confed-nap
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060571-alliance-confed-nap
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Travian: Legends is built on cooperation and diplomacy. Joining or leading an alliance allows players to coordinate attacks, defenses, and resource sharing — all crucial to victory in the endgame.
 
@@ -118,7 +118,7 @@ War Unlimited No Active hostility
 - Use NAPs for short-term peace, but be prepared — they don’t guarantee long-term cooperation.
 - Monitor alliance changes: when confederacy links break, reinforcement recalls begin automatically.
 
-## Punti chiave operativi
+## Key Operational Points
 - Travian: Legends is built on cooperation and diplomacy. Joining or leading an alliance allows players to coordinate attacks, defenses, and resource sharing — all crucial to victory in the endgame.
 - An alliance is a group of up to 60 players working together.
 - Alliances can share intelligence, reinforce one another, trade resources, and compete for artefacts that grant powerful bonuses.
@@ -134,9 +134,9 @@ War Unlimited No Active hostility
 - One existing alliance sends the offer to Alliance C.
 - The other alliance(s) in the confederacy must approve it.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

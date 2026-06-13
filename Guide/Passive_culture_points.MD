@@ -1,9 +1,9 @@
 # Passive culture points
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000091813-passive-culture-points
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000091813-passive-culture-points
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 Culture Points (CP) determine how many villages you can settle or conquer in Travian: Legends.
 You gain them by constructing and upgrading buildings. You can view your total CP and daily production in your Administration Building. Generating enough CP is key to expanding your empire — more villages mean more production, more troops, and greater strategic power.
@@ -121,7 +121,7 @@ To optimize:
 
 A well-planned passive CP setup ensures you can always settle or conquer new villages when the opportunity arises.
 
-## Punti chiave operativi
+## Key Operational Points
 - Culture Points (CP) determine how many villages you can settle or conquer in Travian: Legends.
 - There are three main ways to earn culture points:
 - Using Artworks - Consumed via your hero’s inventory.
@@ -137,8 +137,8 @@ A well-planned passive CP setup ensures you can always settle or conquer new vil
 - Depending on your strategy, use the remaining spaces for specialized support:
 - Goal Suggested Building CP (example level)
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.

@@ -1,9 +1,9 @@
 # Battle Mechanics
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000065350-battle-mechanics
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000065350-battle-mechanics
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 War is an essential part of Travian: Legends. This guide gives an overview of how battles work, what influences them, and what happens before, during, and after combat.
 
@@ -147,7 +147,7 @@ Resources in the hero inventory cannot be stolen.
 
 Using a hero to raid increases plunder—Teuton heroes have +20% plunder by default and can increase it further with certain hero items.
 
-## Punti chiave operativi
+## Key Operational Points
 - War is an essential part of Travian: Legends. This guide gives an overview of how battles work, what influences them, and what happens before, during, and after combat.
 - Only offence points of the attacker and defence points of the defender are used in combat.
 - A unit strong in defence may still be ineffective in attack (e.g., Praetorians), while units like Macemen are poor defenders. Always use units according to their intended role.
@@ -163,10 +163,10 @@ Using a hero to raid increases plunder—Teuton heroes have +20% plunder by defa
 - This includes attacks, raids, adventures, reinforcements, and any other movement.
 - Once the limit is reached, new raids cannot be sent until troops return.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

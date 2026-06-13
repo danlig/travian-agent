@@ -1,9 +1,9 @@
 # Hybrid (Defensive & Offensive) Accounts
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000092534-hybrid-defensive-offensive-accounts
-Sezione origine: Game Guides
+Source: https://support.travian.com/en/support/solutions/articles/7000092534-hybrid-defensive-offensive-accounts
+Source section: Game Guides
 
-## Cosa insegna
+## What It Teaches
 
 A hybrid account allows you to play both offensively and defensively in Travian: Legends. Instead of focusing on only one playstyle, you develop capabilities for both, giving you flexibility and more options during the game.
 
@@ -87,7 +87,7 @@ A hybrid account is most successful when you:
 
 If used correctly, a hybrid account makes you a strong, flexible contributor in both offensive and defensive operations.
 
-## Punti chiave operativi
+## Key Operational Points
 - A hybrid account allows you to play both offensively and defensively in Travian: Legends. Instead of focusing on only one playstyle, you develop capabilities for both, giving you flexibility and more options during the game.
 - A hybrid account can be a good choice if you enjoy contributing to alliance operations in multiple ways or want the freedom to switch roles depending on the situation.
 - Balanced gameplay: You can participate in both attacks and defense.
@@ -103,10 +103,10 @@ If used correctly, a hybrid account makes you a strong, flexible contributor in 
 - A Hamvil is a single army trained to work for both offense and defense. The word combines “hammer” (offensive army) and “anvil” (defensive army).
 - Requires fewer fully developed villages.
 
-## Implicazioni strategiche
-- Gestisci risorse, produzione e capienza come vincoli principali: spendi prima di raccogliere reward grandi e usa NPC merchant solo quando sblocca timing o previene overflow significativo.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Manage resources, production, and storage capacity as your main constraints: spend before collecting large rewards, and use the NPC merchant only when it unlocks better timing or prevents significant overflow.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.

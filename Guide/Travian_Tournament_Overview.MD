@@ -1,9 +1,9 @@
 # Travian Tournament Overview
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000093210-travian-tournament-overview
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000093210-travian-tournament-overview
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Every year, the best Travian: Legends players gather to compete in the Travian Tournament — a global competition for eternal glory and exclusive prizes. The tournament is divided into two stages: Qualifications and Finals.
 
@@ -55,7 +55,7 @@ The Hall of Fame records:
 
 Explore past champions here: Travian Tournament Hall of Fame
 
-## Punti chiave operativi
+## Key Operational Points
 - Every year, the best Travian: Legends players gather to compete in the Travian Tournament — a global competition for eternal glory and exclusive prizes. The tournament is divided into two stages: Qualifications and Finals.
 - The Qualification rounds begin every year in June and take place across four regional game worlds:
 - Keep an eye on the Travian: Legends news section and the game world calendar on travian.com for the official start date and registration details.
@@ -71,8 +71,8 @@ Explore past champions here: Travian Tournament Hall of Fame
 - A wild card raffle also gives players a second chance to join — this takes place a few weeks before the Finals start.
 - If you missed the Qualification round, be sure to register for the raffle to get your shot at competing in the Finals!
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Diplomazia e informazione riducono rischio: controlla messaggi/report, comunica naturalmente e costruisci affidabilita.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Gli obiettivi endgame richiedono preparazione anticipata: logistica, difesa, timing e coordinamento alleanza sono decisivi.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Diplomacy and information reduce risk: check messages/reports, communicate naturally, and build trust.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Endgame objectives require early preparation: logistics, defense, timing, and alliance coordination are decisive.

@@ -1,9 +1,9 @@
 # Auctions
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000065116-auctions
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000065116-auctions
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 The Auction House allows you to buy and sell hero items using Silver. You can use it to get important equipment or consumables when needed, or to earn Silver by selling items you don’t want. Silver can later be exchanged into Gold.
 
@@ -66,7 +66,7 @@ The Silver Accounting tab shows your Silver activity from the last 7 days:
 
 This helps you track your spending and earnings.
 
-## Punti chiave operativi
+## Key Operational Points
 - The Auction House allows you to buy and sell hero items using Silver. You can use it to get important equipment or consumables when needed, or to earn Silver by selling items you don’t want. Silver can later be exchanged into Gold.
 - Each player sets a maximum bid—the highest amount of Silver they are willing to pay.
 - The system then automatically bids on their behalf up to that limit.
@@ -82,5 +82,5 @@ This helps you track your spending and earnings.
 - Items do not appear instantly; there is a random delay before they show up to prevent price manipulation.
 - The following items can be sold in stacks of 5, 10, 30, or 50:
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.

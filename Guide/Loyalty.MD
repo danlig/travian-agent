@@ -1,9 +1,9 @@
 # Loyalty
 
-Fonte: https://support.travian.com/en/support/solutions/articles/7000060248-loyalty
-Sezione origine: Advanced Gameplay
+Source: https://support.travian.com/en/support/solutions/articles/7000060248-loyalty
+Source section: Advanced Gameplay
 
-## Cosa insegna
+## What It Teaches
 
 Every village in Travian: Legends starts with 100% loyalty.
 Loyalty determines how firmly a village belongs to your realm. When loyalty drops to 0%, the village will switch allegiance and become part of the attacker’s realm.
@@ -75,7 +75,7 @@ This also affects the Viking Hero.
 
 The morale bonus that used to depend on village population differences has been removed and no longer applies.
 
-## Punti chiave operativi
+## Key Operational Points
 - Every village in Travian: Legends starts with 100% loyalty.
 - Loyalty determines how firmly a village belongs to your realm. When loyalty drops to 0%, the village will switch allegiance and become part of the attacker’s realm.
 - A village’s loyalty cannot decrease as long as it has one of the following buildings:
@@ -91,8 +91,8 @@ The morale bonus that used to depend on village population differences has been 
 - The Huns have the largest variation, making their results less predictable.
 - When multiple administrators attack in the same wave, the random value is applied once for all of them — so it’s possible to see very high or low total results.
 
-## Implicazioni strategiche
-- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
-- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
-- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.
-- Adatta stile e priorita alla tribu: sfrutta bonus naturali invece di seguire una build generica.
+## Strategic Implications
+- Your hero and items are accelerators: take safe adventures, keep gear aligned with your current goal, and preserve health to avoid downtime.
+- Every military decision must have a clear payoff: profit, defense, conquest, targeted demolition, or diplomatic pressure.
+- Plan territory and culture ahead of time: capital, cropper, oases, and expansion slots determine your mid-game trajectory.
+- Adapt your style and priorities to your tribe: leverage its natural bonuses instead of following a generic build.
