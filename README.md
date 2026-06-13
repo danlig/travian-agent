@@ -2,6 +2,9 @@
 
 > An autonomous LLM agent that plays [Travian Legends](https://www.travian.com/) end-to-end: it reads the official game guides, builds its own automation library on the fly, keeps a persistent memory across sessions through plain Markdown files, and runs in a continuous loop of sensing, deciding, acting, and sleeping.
 
+
+Read my medium blog post [here](https://medium.com/@dan.lig/i-let-claude-fable-5-play-my-childhood-game-it-started-plotting-world-domination-f89c8cf0e704)
+
 ---
 
 ## ⚠️ Disclaimer
