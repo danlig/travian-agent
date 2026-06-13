@@ -21,7 +21,7 @@ def read_sleep_seconds() -> int:
 
 def main() -> None:
     while True:
-        subprocess.run(["opencode", "run", "Gioca!"], check=False)
+        subprocess.run(["opencode", "run", "Play!"], check=False)
 
         sleep_seconds = read_sleep_seconds()
         wake_time = datetime.now() + timedelta(seconds=sleep_seconds)
