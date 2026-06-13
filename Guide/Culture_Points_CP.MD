@@ -1,0 +1,129 @@
+# Culture Points (CP)
+
+Fonte: https://support.travian.com/en/support/solutions/articles/7000065115-culture-points-cp-
+Sezione origine: Basic Gameplay
+
+## Cosa insegna
+
+### What are Culture Points?
+
+Culture Points (CP) determine how many villages you can own.
+Each new village — whether you settle it or conquer it — requires a certain amount of CP.
+
+You earn Culture Points by:
+- Building and upgrading structures in your villages.
+- Hosting parties in your Town Hall.
+- Using Artwork (found in adventures or bought in auctions).
+
+At the start of the game, every player begins with a base amount of CP that depends on the gameworld speed.
+
+### How many Culture Points do I need?
+
+The more villages you have, the more CP you’ll need to unlock the next one.
+Use the table below to find the Culture Point requirements for each game speed.
+
+```text
+Villages (settlement slots)
+ Speed x1
+ Speed x2
+ Speed x3
+ Speed x5
+ Speed x10
+
+1 0 0 0 0 0
+2 2000 800 500 300 200
+3 8000 3900 2600 1600 800
+4 20000 10000 6700 4000 2000
+5 39000 19400 12900 7800 3900
+6 65000 32400 21600 13000 6500
+7 99000 49300 32900 19700 9900
+8 141000 70300 46900 28100 14100
+9 191000 95500 63700 38200 19100
+10 251000 125300 83500 50100 25100
+11 319000 159600 106400 63800 31900
+12 397000 198700 132500 79500 39700
+13 486000 242800 161900 97100 48600
+14 584000 291800 194600 116700 58400
+15 692000 346100 230700 138400 69200
+16 811000 405600 270400 162200 81100
+17 941000 470500 313700 188200 94100
+18 1082000 540900 360600 216400 108200
+19 1234000 616900 411300 246800 123400
+20 1397000 698600 465700 279400 139700
+21 1572000 786100 524000 314400 157200
+22 1759000 879400 586300 351800 175900
+23 1957000 978700 652500 391500 195700
+24 2168000 1084100 722700 433600 216800
+25 2391000 1195600 797000 478200 239100
+26 2627000 1313300 875500 525300 262700
+27 2874000 1437200 958200 574900 287400
+28 3135000 1567600 1045000 627000 313500
+29 3409000 1704300 1136200 681700 340900
+30 3695000 1847600 1231700 739000 369500
+31 3995000 1997400 1331600 799000 399500
+32 4308000 2153900 1435900 861600 430800
+33 4634000 2317000 1544700 926800 463400
+34 4974000 2487000 1658000 994800 497400
+35 5327000 2663700 1775800 1065500 532700
+36 5695000 2847400 1898300 1139000 569500
+37 6076000 3038000 2025300 1215200 607600
+38 6471000 3235600 2157100 1294200 647100
+39 6881000 3440300 2293500 1376100 688100
+40 7304000 3652100 2434700 1460800 730400
+41 7742000 3871000 2580700 1548400 774200
+42 8195000 4097300 2731500 1638900 819500
+43 8662000 4330800 2887200 1732300 866200
+44 9143000 4571600 3047700 1828600 914300
+45 9640000 4819800 3213200 1927900 964000
+46 10151000 5075500 3383700 2030200 1015100
+47 10677000 5338700 3559100 2135500 1067700
+48 11219000 5609400 3739600 2243800 1121900
+49 11775000 5887700 3925100 2355100 1177500
+50 12347000 6173600 4115800 2469500 1234700
+```
+
+### How to check your Culture Points
+
+You can view:
+- Your current total CP, and
+- How many you produce per day,
+in the Administration Building of any village.
+
+Different buildings give different amounts of CP — upgrading higher-level buildings increases your daily CP output.
+
+### Earning extra Culture Points
+
+Boost your Culture Points by:
+- Using Artwork (from adventures or the auction house).
+- Hosting small or large celebrations in your Town Hall.
+
+The amount of CP gained from Artwork, celebrations, and at the game start depends on the world speed. You can check these details in the Culture Points tab of the Game Version & Speed overview.
+
+### Settling or Conquering Villages
+
+You must have enough Culture Points for the next village:
+- When you send your settlers, and
+- When they arrive at the destination.
+
+When conquering a village, you also need enough Culture Points at the time of the battle to lower enemy loyalty successfully. For more information, see: Conquering Villages
+
+## Punti chiave operativi
+- Culture Points (CP) determine how many villages you can own.
+- Each new village — whether you settle it or conquer it — requires a certain amount of CP.
+- Building and upgrading structures in your villages.
+- Using Artwork (found in adventures or bought in auctions).
+- At the start of the game, every player begins with a base amount of CP that depends on the gameworld speed.
+- The more villages you have, the more CP you’ll need to unlock the next one.
+- Use the table below to find the Culture Point requirements for each game speed.
+- 28 3135000 1567600 1045000 627000 313500
+- 29 3409000 1704300 1136200 681700 340900
+- 30 3695000 1847600 1231700 739000 369500
+- 31 3995000 1997400 1331600 799000 399500
+- 32 4308000 2153900 1435900 861600 430800
+- 33 4634000 2317000 1544700 926800 463400
+- 34 4974000 2487000 1658000 994800 497400
+
+## Implicazioni strategiche
+- L'eroe e gli oggetti sono acceleratori: avventure sicure, equip coerente con obiettivo corrente e salute preservata per evitare downtime.
+- Ogni scelta militare deve avere ritorno chiaro: profitto, difesa, conquista, demolizione mirata o pressione diplomatica.
+- Pianifica territorio e cultura in anticipo: capitale, cropper, oasi e slot espansione decidono la traiettoria mid game.

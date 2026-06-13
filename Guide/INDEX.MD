@@ -1,0 +1,125 @@
+# Travian Support Guide Index
+
+Generated from 3 support sections.
+Atomic article files: 119.
+
+## Articles
+- [5 things to consider about Egyptians](./5_things_to_consider_about_Egyptians.MD) - Game Guides
+- [5 things to consider about Gauls](./5_things_to_consider_about_Gauls.MD) - Game Guides
+- [5 things to consider about Huns](./5_things_to_consider_about_Huns.MD) - Game Guides
+- [5 things to consider about Romans](./5_things_to_consider_about_Romans.MD) - Game Guides
+- [5 things to consider about Teutons](./5_things_to_consider_about_Teutons.MD) - Game Guides
+- [Adventures](./Adventures.MD) - Basic Gameplay
+- [Alliance Bonuses](./Alliance_Bonuses.MD) - Advanced Gameplay
+- [Alliance Graphs](./Alliance_Graphs.MD) - Advanced Gameplay
+- [Alliance Management](./Alliance_Management.MD) - Advanced Gameplay
+- [Alliance, Confed & NAP](./Alliance_Confed_And_NAP.MD) - Advanced Gameplay
+- [Archive reports and messages](./Archive_reports_and_messages.MD) - Basic Gameplay
+- [Artefact Effects](./Artefact_Effects.MD) - Advanced Gameplay
+- [Artefact Limitations – How Artefact Activation Works](./Artefact_Limitations_How_Artefact_Activation_Works.MD) - Advanced Gameplay
+- [Artefacts](./Artefacts.MD) - Advanced Gameplay
+- [Artefacts FAQ](./Artefacts_FAQ.MD) - Game Guides
+- [Auctions](./Auctions.MD) - Advanced Gameplay
+- [Balancing Military and Economy](./Balancing_Military_and_Economy.MD) - Game Guides
+- [Battle Mechanics](./Battle_Mechanics.MD) - Advanced Gameplay
+- [Brewery](./Brewery.MD) - Advanced Gameplay
+- [Building a World Wonder](./Building_a_World_Wonder.MD) - Game Guides
+- [Building an Operational (Working) Hammer](./Building_an_Operational_Working_Hammer.MD) - Game Guides
+- [Building and Research Waiting Loop](./Building_and_Research_Waiting_Loop.MD) - Basic Gameplay
+- [Buildings and Resource Fields Statistics](./Buildings_and_Resource_Fields_Statistics.MD) - Basic Gameplay
+- [Capital Village](./Capital_Village.MD) - Basic Gameplay
+- [Catapults](./Catapults.MD) - Advanced Gameplay
+- [Community Week - Overview of Balance Changes](./Community_Week_Overview_of_Balance_Changes.MD) - Game Guides
+- [Conquering Travian: Northern Legends](./Conquering_Travian_Northern_Legends.MD) - Game Guides
+- [Conquering Villages](./Conquering_Villages.MD) - Basic Gameplay
+- [Construction Plans](./Construction_Plans.MD) - Advanced Gameplay
+- [Crop Finder](./Crop_Finder.MD) - Basic Gameplay
+- [Culture Points (CP)](./Culture_Points_CP.MD) - Basic Gameplay
+- [Demolishing Buildings](./Demolishing_Buildings.MD) - Basic Gameplay
+- [Developing your first villages](./Developing_your_first_villages.MD) - Game Guides
+- [Discovering Map Features](./Discovering_Map_Features.MD) - Game Guides
+- [Early Development: Return on Investment (ROI)](./Early_Development_Return_on_Investment_ROI.MD) - Game Guides
+- [Event Order](./Event_Order.MD) - Advanced Gameplay
+- [Expansion Slots](./Expansion_Slots.MD) - Basic Gameplay
+- [Farm Lists](./Farm_Lists.MD) - Advanced Gameplay
+- [Finish constructions and research orders](./Finish_constructions_and_research_orders.MD) - Basic Gameplay
+- [First steps in the game](./First_steps_in_the_game.MD) - Game Guides
+- [Flagging of attacks](./Flagging_of_attacks.MD) - Advanced Gameplay
+- [Game Versions and Speed](./Game_Versions_and_Speed.MD) - Basic Gameplay
+- [Gaul - Hero Right-Hand Items](./Gaul_Hero_Right_Hand_Items.MD) - Advanced Gameplay
+- [Gauls – Community Week Unit Stats](./Gauls_Community_Week_Unit_Stats.MD) - Game Guides
+- [Getting Ready for the Artefact Release](./Getting_Ready_for_the_Artefact_Release.MD) - Game Guides
+- [Getting Ready for the Construction Plan Release](./Getting_Ready_for_the_Construction_Plan_Release.MD) - Game Guides
+- [Hero Armour Items](./Hero_Armour_Items.MD) - Advanced Gameplay
+- [Hero Consumable Items](./Hero_Consumable_Items.MD) - Advanced Gameplay
+- [Hero Experience](./Hero_Experience.MD) - Basic Gameplay
+- [Hero Health and Revival](./Hero_Health_and_Revival.MD) - Basic Gameplay
+- [Hero in the early game](./Hero_in_the_early_game.MD) - Game Guides
+- [Hero Item Overview and Mounts](./Hero_Item_Overview_and_Mounts.MD) - Advanced Gameplay
+- [Hero Left-Hand Items](./Hero_Left_Hand_Items.MD) - Advanced Gameplay
+- [Hero overview](./Hero_overview.MD) - Basic Gameplay
+- [Hiding Resources & Cranny](./Hiding_Resources_And_Cranny.MD) - Basic Gameplay
+- [Hospital and Asclepeion](./Hospital_and_Asclepeion.MD) - Advanced Gameplay
+- [How to avoid getting farmed](./How_to_avoid_getting_farmed.MD) - Game Guides
+- [Hybrid (Defensive & Offensive) Accounts](./Hybrid_Defensive_And_Offensive_Accounts.MD) - Game Guides
+- [In-Game Links You Can Use](./In_Game_Links_You_Can_Use.MD) - Game Guides
+- [In-Game Messages (IGMs)](./In_Game_Messages_IGMs.MD) - Basic Gameplay
+- [Incoming attack warning in village list](./Incoming_attack_warning_in_village_list.MD) - Advanced Gameplay
+- [Introduction](./Introduction.MD) - Basic Gameplay
+- [Joining, Creating and Leaving an Alliance](./Joining_Creating_and_Leaving_an_Alliance.MD) - Advanced Gameplay
+- [Known bugs in Travian: Legends](./Known_bugs_in_Travian_Legends.MD) - Basic Gameplay, Advanced Gameplay, Game Guides
+- [Legends’ Auction House 2.0](./Legends_Auction_House_2_0.MD) - Game Guides
+- [Loyalty](./Loyalty.MD) - Advanced Gameplay
+- [Map Strategies for Newer Alliances in Northern Legends](./Map_Strategies_for_Newer_Alliances_in_Northern_Legends.MD) - Game Guides
+- [Master Builder](./Master_Builder.MD) - Basic Gameplay
+- [Maximizing Efficiency: Managing Your Account](./Maximizing_Efficiency_Managing_Your_Account.MD) - Game Guides
+- [More Troops or Smithy Upgrades?](./More_Troops_or_Smithy_Upgrades.MD) - Game Guides
+- [NPC Merchant](./NPC_Merchant.MD) - Basic Gameplay
+- [Oasis](./Oasis.MD) - Basic Gameplay
+- [Oasis Farming (After Beginner Protection)](./Oasis_Farming_After_Beginner_Protection.MD) - Game Guides
+- [Passive culture points](./Passive_culture_points.MD) - Game Guides
+- [Playing With a Defense Account](./Playing_With_a_Defense_Account.MD) - Game Guides
+- [Preventing Conquering](./Preventing_Conquering.MD) - Basic Gameplay
+- [Problems with Crop](./Problems_with_Crop.MD) - Advanced Gameplay
+- [Real Attacks and Fakes](./Real_Attacks_and_Fakes.MD) - Game Guides
+- [Reign of Fire - Game Mechanics](./Reign_of_Fire_Game_Mechanics.MD) - Basic Gameplay
+- [Reign of Fire – Overview](./Reign_of_Fire_Overview.MD) - Game Guides
+- [Reports](./Reports.MD) - Basic Gameplay
+- [Roman - Hero Right-Hand Items](./Roman_Hero_Right_Hand_Items.MD) - Advanced Gameplay
+- [Romans – Community Week Unit Stats](./Romans_Community_Week_Unit_Stats.MD) - Game Guides
+- [Settling and Securing village in a Grey Area](./Settling_and_Securing_village_in_a_Grey_Area.MD) - Game Guides
+- [Settling villages](./Settling_villages.MD) - Basic Gameplay
+- [Sniping Waves](./Sniping_Waves.MD) - Game Guides
+- [Special Servers - Ancient Powers and Victory Points](./Special_Servers_Ancient_Powers_and_Victory_Points.MD) - Advanced Gameplay
+- [Special Servers - Common, Uncommon, Rare and Epic Items](./Special_Servers_Common_Uncommon_Rare_and_Epic_Items.MD) - Basic Gameplay
+- [Special Servers - Forwarding Troops](./Special_Servers_Forwarding_Troops.MD) - Advanced Gameplay
+- [Special Servers - Harbor and Deep Water](./Special_Servers_Harbor_and_Deep_Water.MD) - Basic Gameplay
+- [Special Servers - Item Crafting](./Special_Servers_Item_Crafting.MD) - Basic Gameplay
+- [Special Servers - Merging Troops](./Special_Servers_Merging_Troops.MD) - Advanced Gameplay
+- [Special Servers - Regional Map](./Special_Servers_Regional_Map.MD) - Basic Gameplay
+- [Special Servers - Regions and Population](./Special_Servers_Regions_and_Population.MD) - Basic Gameplay
+- [Special Servers - Ships and Naval Movement](./Special_Servers_Ships_and_Naval_Movement.MD) - Basic Gameplay
+- [Special Servers - Watchtowers](./Special_Servers_Watchtowers.MD) - Advanced Gameplay
+- [Teutons - Hero Right-Hand Items](./Teutons_Hero_Right_Hand_Items.MD) - Advanced Gameplay
+- [Teutons – Community Week Unit Stats](./Teutons_Community_Week_Unit_Stats.MD) - Game Guides
+- [The Egyptians and Their Advantages](./The_Egyptians_and_Their_Advantages.MD) - Basic Gameplay
+- [The Gauls and Their Advantages](./The_Gauls_and_Their_Advantages.MD) - Basic Gameplay
+- [The Huns and Their Advantages](./The_Huns_and_Their_Advantages.MD) - Basic Gameplay
+- [The Romans and Their Advantages](./The_Romans_and_Their_Advantages.MD) - Basic Gameplay
+- [The Teutons and Their Advantages](./The_Teutons_and_Their_Advantages.MD) - Basic Gameplay
+- [The Tribes and Their Advantages](./The_Tribes_and_Their_Advantages.MD) - Basic Gameplay
+- [The Use of Catapults](./The_Use_of_Catapults.MD) - Game Guides
+- [The Vikings and Their Advantages](./The_Vikings_and_Their_Advantages.MD) - Basic Gameplay
+- [Trade Routes](./Trade_Routes.MD) - Basic Gameplay
+- [Travian Tournament - Game Worlds Setup](./Travian_Tournament_Game_Worlds_Setup.MD) - Advanced Gameplay
+- [Travian Tournament - Prizes](./Travian_Tournament_Prizes.MD) - Advanced Gameplay
+- [Travian Tournament Overview](./Travian_Tournament_Overview.MD) - Advanced Gameplay
+- [Troop Upgrades and Smithy](./Troop_Upgrades_and_Smithy.MD) - Basic Gameplay
+- [Troops Speed Increase & Tournament Square](./Troops_Speed_Increase_And_Tournament_Square.MD) - Advanced Gameplay
+- [Truce](./Truce.MD) - Basic Gameplay
+- [Types of capitals and their development](./Types_of_capitals_and_their_development.MD) - Game Guides
+- [Vacation Mode](./Vacation_Mode.MD) - Basic Gameplay
+- [Village Destruction](./Village_Destruction.MD) - Advanced Gameplay
+- [Walls and Rams](./Walls_and_Rams.MD) - Advanced Gameplay
+- [What is Map.sql](./What_is_Map_sql.MD) - Game Guides
+- [World Wonder](./World_Wonder.MD) - Advanced Gameplay
